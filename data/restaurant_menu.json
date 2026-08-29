@@ -1,0 +1,212 @@
+[
+  {
+    "id": "R001", "name": "Roti (Wheat Chapati)", "category": "Breads",
+    "price": 10, "calories_kcal": 297, "protein_g": 8.5, "carb_g": 61.2,
+    "fat_g": 3.7, "fiber_g": 1.9, "sugar_g": 0.4, "sodium_mg": 2,
+    "calcium_mg": 41, "iron_mg": 3.5, "vitamin_c_mg": 0, "serving": "1 piece (30g)",
+    "emoji": "🫓", "veg": true, "tags": ["healthy", "low-calorie"]
+  },
+  {
+    "id": "R002", "name": "Paratha (Plain)", "category": "Breads",
+    "price": 25, "calories_kcal": 326, "protein_g": 7.5, "carb_g": 51.0,
+    "fat_g": 11.0, "fiber_g": 1.5, "sugar_g": 0.3, "sodium_mg": 5,
+    "calcium_mg": 35, "iron_mg": 2.8, "vitamin_c_mg": 0, "serving": "1 piece (80g)",
+    "emoji": "🫓", "veg": true, "tags": ["popular"]
+  },
+  {
+    "id": "R003", "name": "Basmati Rice (cooked)", "category": "Rice",
+    "price": 60, "calories_kcal": 130, "protein_g": 2.7, "carb_g": 28.2,
+    "fat_g": 0.3, "fiber_g": 0.4, "sugar_g": 0.0, "sodium_mg": 1,
+    "calcium_mg": 10, "iron_mg": 0.2, "vitamin_c_mg": 0, "serving": "1 cup (200g)",
+    "emoji": "🍚", "veg": true, "tags": ["staple"]
+  },
+  {
+    "id": "R004", "name": "Dal Tadka (Toor Dal)", "category": "Lentils",
+    "price": 80, "calories_kcal": 116, "protein_g": 7.2, "carb_g": 18.5,
+    "fat_g": 2.5, "fiber_g": 3.5, "sugar_g": 0.5, "sodium_mg": 180,
+    "calcium_mg": 45, "iron_mg": 2.0, "vitamin_c_mg": 5, "serving": "1 bowl (200g)",
+    "emoji": "🍲", "veg": true, "tags": ["protein-rich", "healthy"]
+  },
+  {
+    "id": "R005", "name": "Paneer Butter Masala", "category": "Curries",
+    "price": 150, "calories_kcal": 280, "protein_g": 14.0, "carb_g": 12.0,
+    "fat_g": 20.0, "fiber_g": 1.5, "sugar_g": 3.0, "sodium_mg": 350,
+    "calcium_mg": 300, "iron_mg": 1.5, "vitamin_c_mg": 8, "serving": "1 bowl (200g)",
+    "emoji": "🧆", "veg": true, "tags": ["popular", "protein-rich"]
+  },
+  {
+    "id": "R006", "name": "Chicken Curry", "category": "Curries",
+    "price": 180, "calories_kcal": 180, "protein_g": 18.5, "carb_g": 5.5,
+    "fat_g": 9.5, "fiber_g": 0.5, "sugar_g": 1.5, "sodium_mg": 300,
+    "calcium_mg": 25, "iron_mg": 1.5, "vitamin_c_mg": 5, "serving": "1 bowl (250g)",
+    "emoji": "🍛", "veg": false, "tags": ["protein-rich", "non-veg"]
+  },
+  {
+    "id": "R007", "name": "Tandoori Chicken", "category": "Starters",
+    "price": 200, "calories_kcal": 165, "protein_g": 24.0, "carb_g": 4.0,
+    "fat_g": 6.0, "fiber_g": 0.3, "sugar_g": 0.8, "sodium_mg": 420,
+    "calcium_mg": 30, "iron_mg": 1.2, "vitamin_c_mg": 3, "serving": "2 pieces (200g)",
+    "emoji": "🍗", "veg": false, "tags": ["high-protein", "popular"]
+  },
+  {
+    "id": "R008", "name": "Idli (2 pieces)", "category": "South Indian",
+    "price": 40, "calories_kcal": 116, "protein_g": 4.0, "carb_g": 22.8,
+    "fat_g": 0.8, "fiber_g": 1.0, "sugar_g": 0.2, "sodium_mg": 12,
+    "calcium_mg": 20, "iron_mg": 1.8, "vitamin_c_mg": 0, "serving": "2 pieces (100g)",
+    "emoji": "⚪", "veg": true, "tags": ["low-fat", "breakfast", "healthy"]
+  },
+  {
+    "id": "R009", "name": "Dosa (Plain)", "category": "South Indian",
+    "price": 60, "calories_kcal": 133, "protein_g": 2.8, "carb_g": 22.0,
+    "fat_g": 4.0, "fiber_g": 0.5, "sugar_g": 0.2, "sodium_mg": 12,
+    "calcium_mg": 14, "iron_mg": 1.0, "vitamin_c_mg": 0, "serving": "1 piece (100g)",
+    "emoji": "🥞", "veg": true, "tags": ["breakfast", "popular"]
+  },
+  {
+    "id": "R010", "name": "Sambar", "category": "South Indian",
+    "price": 30, "calories_kcal": 51, "protein_g": 2.5, "carb_g": 7.5,
+    "fat_g": 1.5, "fiber_g": 2.5, "sugar_g": 1.0, "sodium_mg": 280,
+    "calcium_mg": 30, "iron_mg": 1.2, "vitamin_c_mg": 12, "serving": "1 bowl (200g)",
+    "emoji": "🍵", "veg": true, "tags": ["low-calorie", "healthy"]
+  },
+  {
+    "id": "R011", "name": "Biryani (Chicken)", "category": "Rice",
+    "price": 200, "calories_kcal": 215, "protein_g": 12.5, "carb_g": 24.5,
+    "fat_g": 8.0, "fiber_g": 1.0, "sugar_g": 1.5, "sodium_mg": 380,
+    "calcium_mg": 35, "iron_mg": 1.5, "vitamin_c_mg": 5, "serving": "1 plate (350g)",
+    "emoji": "🍛", "veg": false, "tags": ["popular", "non-veg"]
+  },
+  {
+    "id": "R012", "name": "Biryani (Veg)", "category": "Rice",
+    "price": 150, "calories_kcal": 185, "protein_g": 5.5, "carb_g": 28.5,
+    "fat_g": 6.0, "fiber_g": 2.5, "sugar_g": 1.5, "sodium_mg": 320,
+    "calcium_mg": 30, "iron_mg": 1.2, "vitamin_c_mg": 8, "serving": "1 plate (300g)",
+    "emoji": "🍚", "veg": true, "tags": ["popular"]
+  },
+  {
+    "id": "R013", "name": "Chana Masala", "category": "Lentils",
+    "price": 90, "calories_kcal": 164, "protein_g": 9.0, "carb_g": 22.0,
+    "fat_g": 4.5, "fiber_g": 7.6, "sugar_g": 2.0, "sodium_mg": 250,
+    "calcium_mg": 57, "iron_mg": 3.5, "vitamin_c_mg": 8, "serving": "1 bowl (200g)",
+    "emoji": "🫘", "veg": true, "tags": ["high-fiber", "protein-rich"]
+  },
+  {
+    "id": "R014", "name": "Palak Paneer", "category": "Curries",
+    "price": 140, "calories_kcal": 210, "protein_g": 10.5, "carb_g": 8.5,
+    "fat_g": 15.5, "fiber_g": 2.5, "sugar_g": 1.5, "sodium_mg": 280,
+    "calcium_mg": 250, "iron_mg": 2.5, "vitamin_c_mg": 18, "serving": "1 bowl (200g)",
+    "emoji": "🥬", "veg": true, "tags": ["iron-rich", "healthy"]
+  },
+  {
+    "id": "R015", "name": "Rajma Curry", "category": "Lentils",
+    "price": 100, "calories_kcal": 127, "protein_g": 8.7, "carb_g": 18.5,
+    "fat_g": 2.2, "fiber_g": 6.4, "sugar_g": 1.2, "sodium_mg": 200,
+    "calcium_mg": 50, "iron_mg": 3.2, "vitamin_c_mg": 5, "serving": "1 bowl (200g)",
+    "emoji": "🫘", "veg": true, "tags": ["protein-rich", "high-fiber"]
+  },
+  {
+    "id": "R016", "name": "Upma", "category": "Breakfast",
+    "price": 50, "calories_kcal": 150, "protein_g": 3.4, "carb_g": 21.5,
+    "fat_g": 5.8, "fiber_g": 1.0, "sugar_g": 0.3, "sodium_mg": 180,
+    "calcium_mg": 18, "iron_mg": 1.2, "vitamin_c_mg": 2, "serving": "1 bowl (200g)",
+    "emoji": "🥣", "veg": true, "tags": ["breakfast", "light"]
+  },
+  {
+    "id": "R017", "name": "Poha", "category": "Breakfast",
+    "price": 40, "calories_kcal": 180, "protein_g": 2.5, "carb_g": 36.2,
+    "fat_g": 4.0, "fiber_g": 0.5, "sugar_g": 0.1, "sodium_mg": 300,
+    "calcium_mg": 10, "iron_mg": 1.5, "vitamin_c_mg": 0, "serving": "1 bowl (150g)",
+    "emoji": "🥣", "veg": true, "tags": ["breakfast"]
+  },
+  {
+    "id": "R018", "name": "Boiled Egg (2 pcs)", "category": "Starters",
+    "price": 30, "calories_kcal": 156, "protein_g": 12.6, "carb_g": 1.2,
+    "fat_g": 10.6, "fiber_g": 0.0, "sugar_g": 1.2, "sodium_mg": 124,
+    "calcium_mg": 50, "iron_mg": 1.8, "vitamin_c_mg": 0, "serving": "2 eggs (100g)",
+    "emoji": "🥚", "veg": false, "tags": ["protein-rich", "keto"]
+  },
+  {
+    "id": "R019", "name": "Sprouts Salad", "category": "Salads",
+    "price": 60, "calories_kcal": 45, "protein_g": 3.8, "carb_g": 6.0,
+    "fat_g": 0.4, "fiber_g": 1.8, "sugar_g": 0.5, "sodium_mg": 7,
+    "calcium_mg": 20, "iron_mg": 0.8, "vitamin_c_mg": 15, "serving": "1 bowl (150g)",
+    "emoji": "🥗", "veg": true, "tags": ["low-calorie", "weight-loss"]
+  },
+  {
+    "id": "R020", "name": "Curd / Dahi", "category": "Dairy",
+    "price": 30, "calories_kcal": 98, "protein_g": 3.1, "carb_g": 4.7,
+    "fat_g": 6.8, "fiber_g": 0.0, "sugar_g": 4.7, "sodium_mg": 36,
+    "calcium_mg": 120, "iron_mg": 0.1, "vitamin_c_mg": 1, "serving": "1 cup (200g)",
+    "emoji": "🥛", "veg": true, "tags": ["probiotic", "healthy"]
+  },
+  {
+    "id": "R021", "name": "Mango Lassi", "category": "Beverages",
+    "price": 60, "calories_kcal": 95, "protein_g": 3.0, "carb_g": 17.5,
+    "fat_g": 2.0, "fiber_g": 0.5, "sugar_g": 15.0, "sodium_mg": 40,
+    "calcium_mg": 100, "iron_mg": 0.2, "vitamin_c_mg": 12, "serving": "1 glass (300ml)",
+    "emoji": "🥭", "veg": true, "tags": ["beverage", "popular"]
+  },
+  {
+    "id": "R022", "name": "Masala Chai", "category": "Beverages",
+    "price": 20, "calories_kcal": 40, "protein_g": 1.5, "carb_g": 5.5,
+    "fat_g": 1.5, "fiber_g": 0.2, "sugar_g": 4.5, "sodium_mg": 15,
+    "calcium_mg": 55, "iron_mg": 0.3, "vitamin_c_mg": 0, "serving": "1 cup (200ml)",
+    "emoji": "☕", "veg": true, "tags": ["beverage"]
+  },
+  {
+    "id": "R023", "name": "Pav Bhaji", "category": "Snacks",
+    "price": 80, "calories_kcal": 215, "protein_g": 5.5, "carb_g": 32.0,
+    "fat_g": 8.0, "fiber_g": 4.5, "sugar_g": 5.0, "sodium_mg": 420,
+    "calcium_mg": 35, "iron_mg": 1.5, "vitamin_c_mg": 25, "serving": "1 plate (300g)",
+    "emoji": "🍞", "veg": true, "tags": ["popular", "snack"]
+  },
+  {
+    "id": "R024", "name": "Vada Pav", "category": "Snacks",
+    "price": 30, "calories_kcal": 295, "protein_g": 7.5, "carb_g": 42.0,
+    "fat_g": 10.5, "fiber_g": 3.5, "sugar_g": 3.0, "sodium_mg": 520,
+    "calcium_mg": 40, "iron_mg": 2.0, "vitamin_c_mg": 5, "serving": "1 piece (150g)",
+    "emoji": "🍔", "veg": true, "tags": ["popular", "snack"]
+  },
+  {
+    "id": "R025", "name": "Gulab Jamun (2 pcs)", "category": "Sweets",
+    "price": 40, "calories_kcal": 385, "protein_g": 6.5, "carb_g": 55.0,
+    "fat_g": 16.5, "fiber_g": 0.5, "sugar_g": 40.0, "sodium_mg": 80,
+    "calcium_mg": 80, "iron_mg": 0.8, "vitamin_c_mg": 0, "serving": "2 pieces (100g)",
+    "emoji": "🟤", "veg": true, "tags": ["sweet", "dessert"]
+  },
+  {
+    "id": "R026", "name": "Fish Curry", "category": "Curries",
+    "price": 200, "calories_kcal": 145, "protein_g": 17.0, "carb_g": 6.5,
+    "fat_g": 6.0, "fiber_g": 0.5, "sugar_g": 1.0, "sodium_mg": 350,
+    "calcium_mg": 35, "iron_mg": 1.8, "vitamin_c_mg": 6, "serving": "1 bowl (250g)",
+    "emoji": "🐟", "veg": false, "tags": ["protein-rich", "omega-3"]
+  },
+  {
+    "id": "R027", "name": "Coconut Water", "category": "Beverages",
+    "price": 40, "calories_kcal": 19, "protein_g": 0.7, "carb_g": 3.7,
+    "fat_g": 0.2, "fiber_g": 1.1, "sugar_g": 2.6, "sodium_mg": 105,
+    "calcium_mg": 24, "iron_mg": 0.3, "vitamin_c_mg": 2, "serving": "1 glass (250ml)",
+    "emoji": "🥥", "veg": true, "tags": ["hydrating", "low-calorie"]
+  },
+  {
+    "id": "R028", "name": "Oats Bowl", "category": "Breakfast",
+    "price": 70, "calories_kcal": 71, "protein_g": 2.5, "carb_g": 12.0,
+    "fat_g": 1.5, "fiber_g": 1.7, "sugar_g": 0.5, "sodium_mg": 49,
+    "calcium_mg": 10, "iron_mg": 0.8, "vitamin_c_mg": 0, "serving": "1 bowl (200g)",
+    "emoji": "🥣", "veg": true, "tags": ["healthy", "breakfast", "weight-loss"]
+  },
+  {
+    "id": "R029", "name": "Mutton Curry", "category": "Curries",
+    "price": 250, "calories_kcal": 255, "protein_g": 22.0, "carb_g": 5.0,
+    "fat_g": 16.5, "fiber_g": 0.5, "sugar_g": 1.0, "sodium_mg": 380,
+    "calcium_mg": 20, "iron_mg": 2.5, "vitamin_c_mg": 4, "serving": "1 bowl (250g)",
+    "emoji": "🍖", "veg": false, "tags": ["protein-rich", "non-veg"]
+  },
+  {
+    "id": "R030", "name": "Dhokla", "category": "Snacks",
+    "price": 50, "calories_kcal": 160, "protein_g": 5.5, "carb_g": 28.5,
+    "fat_g": 4.0, "fiber_g": 1.5, "sugar_g": 2.0, "sodium_mg": 350,
+    "calcium_mg": 45, "iron_mg": 1.5, "vitamin_c_mg": 1, "serving": "4 pieces (120g)",
+    "emoji": "🟡", "veg": true, "tags": ["snack", "gujarat"]
+  }
+]

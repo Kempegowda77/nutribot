@@ -1,0 +1,5002 @@
+[
+  {
+    "text": "Egg, whole, cooked, poached ka healthy portion size kya hota hai?",
+    "food_name": "Egg, whole, cooked, poached",
+    "intent": 4,
+    "intent_name": "portion_control",
+    "regression_target": 200.0,
+    "nutrition_vector": [
+      0.0572,
+      0.1251,
+      0.0018,
+      0.0474,
+      0.0,
+      0.0037,
+      0.1485,
+      0.0373
+    ],
+    "calorie_budget": 276.2,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Nutritional profile of Beef, chuck, shoulder clod, top blade, steak, separable lean and fat, trimmed to 0\" fat, select, raw batao.",
+    "food_name": "Beef, chuck, shoulder clod, top blade, steak, separable lean and fat, trimmed to 0\" fat, select, raw",
+    "intent": 3,
+    "intent_name": "nutrition_info",
+    "regression_target": 19.4,
+    "nutrition_vector": [
+      0.0664,
+      0.1938,
+      0.0,
+      0.0461,
+      0.0,
+      0.0,
+      0.0375,
+      0.004
+    ],
+    "calorie_budget": null,
+    "source": "USDA_SR_Legacy",
+    "language": "english"
+  },
+  {
+    "text": "Calories in 50g Shortening cake mix, soybean (hydrogenated) and cottonseed (hydrogenated) please batao.",
+    "food_name": "Shortening cake mix, soybean (hydrogenated) and cottonseed (hydrogenated)",
+    "intent": 0,
+    "intent_name": "calorie_query",
+    "regression_target": 884.0,
+    "nutrition_vector": [
+      0.3536,
+      0.0,
+      0.0,
+      0.5,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "calorie_budget": 1027.7,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Kitni calories hoti hain 1 Soup, chicken broth or bouillon, dry mein roughly?",
+    "food_name": "Soup, chicken broth or bouillon, dry",
+    "intent": 0,
+    "intent_name": "calorie_query",
+    "regression_target": 267.0,
+    "nutrition_vector": [
+      0.1068,
+      0.1666,
+      0.045,
+      0.0694,
+      0.0,
+      0.1736,
+      1.0,
+      0.1247
+    ],
+    "calorie_budget": null,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Healthy Indian dinner kya ho sakta hai?",
+    "food_name": "Babyfood, dessert, cherry vanilla pudding, junior",
+    "intent": 1,
+    "intent_name": "meal_suggestion",
+    "regression_target": 134.2,
+    "nutrition_vector": [
+      0.0276,
+      0.002,
+      0.046,
+      0.001,
+      0.006,
+      0.1698,
+      0.0,
+      0.0033
+    ],
+    "calorie_budget": 400.2,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "energy boost ke liye protein intake kitna hona chahiye?",
+    "food_name": "Fish oil, herring",
+    "intent": 2,
+    "intent_name": "diet_advice",
+    "regression_target": 2800,
+    "nutrition_vector": [
+      0.3608,
+      0.0,
+      0.0,
+      0.5,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "calorie_budget": null,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "How much Babyfood, dinner, beef noodle, junior is too much?",
+    "food_name": "Babyfood, dinner, beef noodle, junior",
+    "intent": 4,
+    "intent_name": "portion_control",
+    "regression_target": 200.0,
+    "nutrition_vector": [
+      0.0228,
+      0.025,
+      0.0182,
+      0.0095,
+      0.022,
+      0.0145,
+      0.013,
+      0.0053
+    ],
+    "calorie_budget": 406.3,
+    "source": "USDA_SR_Legacy",
+    "language": "english"
+  },
+  {
+    "text": "Ek din mein kitna Beef, loin, tenderloin steak, boneless, separable lean only, trimmed to 0\" fat, all grades, cooked, grilled khana chahiye?",
+    "food_name": "Beef, loin, tenderloin steak, boneless, separable lean only, trimmed to 0\" fat, all grades, cooked, grilled",
+    "intent": 4,
+    "intent_name": "portion_control",
+    "regression_target": 50.0,
+    "nutrition_vector": [
+      0.0792,
+      0.307,
+      0.0,
+      0.0416,
+      0.0,
+      0.0,
+      0.0295,
+      0.01
+    ],
+    "calorie_budget": 273.3,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Quick and healthy dinner Indian food kya hai?",
+    "food_name": "Cookies, Marie biscuit",
+    "intent": 1,
+    "intent_name": "meal_suggestion",
+    "regression_target": 976.6,
+    "nutrition_vector": [
+      0.1624,
+      0.0705,
+      0.1764,
+      0.0529,
+      0.07,
+      0.2116,
+      0.185,
+      0.0
+    ],
+    "calorie_budget": 1170.5,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Recommended Lamb, New Zealand, imported, tenderloin, separable lean and fat, cooked, fast fried intake per day batao.",
+    "food_name": "Lamb, New Zealand, imported, tenderloin, separable lean and fat, cooked, fast fried",
+    "intent": 4,
+    "intent_name": "portion_control",
+    "regression_target": 200.0,
+    "nutrition_vector": [
+      0.0628,
+      0.2787,
+      0.0,
+      0.025,
+      0.0,
+      0.0,
+      0.0295,
+      0.0033
+    ],
+    "calorie_budget": 331.9,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Daily limit of Pancakes, buttermilk, prepared from recipe kya hona chahiye?",
+    "food_name": "Pancakes, buttermilk, prepared from recipe",
+    "intent": 4,
+    "intent_name": "portion_control",
+    "regression_target": 100.0,
+    "nutrition_vector": [
+      0.0908,
+      0.068,
+      0.0717,
+      0.0465,
+      0.0,
+      0.0,
+      0.261,
+      0.1047
+    ],
+    "calorie_budget": null,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Can I eat Beef, round, eye of round, roast, separable lean and fat, trimmed to 1/8\" fat, select, raw daily? How much?",
+    "food_name": "Beef, round, eye of round, roast, separable lean and fat, trimmed to 1/8\" fat, select, raw",
+    "intent": 4,
+    "intent_name": "portion_control",
+    "regression_target": 200.0,
+    "nutrition_vector": [
+      0.064,
+      0.213,
+      0.0002,
+      0.0379,
+      0.0,
+      0.0,
+      0.031,
+      0.016
+    ],
+    "calorie_budget": 485.3,
+    "source": "USDA_SR_Legacy",
+    "language": "english"
+  },
+  {
+    "text": "Kitni calories hoti hain 100g Beef, rib, small end (ribs 10-12), separable lean and fat, trimmed to 1/8\" fat, choice, cooked, broiled mein roughly?",
+    "food_name": "Beef, rib, small end (ribs 10-12), separable lean and fat, trimmed to 1/8\" fat, choice, cooked, broiled",
+    "intent": 0,
+    "intent_name": "calorie_query",
+    "regression_target": 304.0,
+    "nutrition_vector": [
+      0.1216,
+      0.2453,
+      0.0,
+      0.1104,
+      0.0,
+      0.0,
+      0.0245,
+      0.0107
+    ],
+    "calorie_budget": null,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Mujhe diabetes management ke liye diet plan chahiye.",
+    "food_name": "Squash, summer, crookneck and straightneck, frozen, unprepared",
+    "intent": 2,
+    "intent_name": "diet_advice",
+    "regression_target": 920.2,
+    "nutrition_vector": [
+      0.008,
+      0.0083,
+      0.012,
+      0.0007,
+      0.024,
+      0.0,
+      0.0025,
+      0.012
+    ],
+    "calorie_budget": 1028.6,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Light pre-workout meal suggestions for thyroid health.",
+    "food_name": "Beverages, OCEAN SPRAY, Light Cranberry and Raspberry Flavored Juice",
+    "intent": 1,
+    "intent_name": "meal_suggestion",
+    "regression_target": 207.8,
+    "nutrition_vector": [
+      0.0104,
+      0.0073,
+      0.0144,
+      0.0,
+      0.014,
+      0.0502,
+      0.001,
+      0.0027
+    ],
+    "calorie_budget": 491.9,
+    "source": "USDA_SR_Legacy",
+    "language": "english"
+  },
+  {
+    "text": "Daily limit of Fish, mackerel, Pacific and jack, mixed species, cooked, dry heat kya hona chahiye?",
+    "food_name": "Fish, mackerel, Pacific and jack, mixed species, cooked, dry heat",
+    "intent": 4,
+    "intent_name": "portion_control",
+    "regression_target": 150.0,
+    "nutrition_vector": [
+      0.0804,
+      0.2573,
+      0.0,
+      0.0506,
+      0.0,
+      0.0,
+      0.055,
+      0.0193
+    ],
+    "calorie_budget": 329.3,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Quick and healthy pre-workout meal Indian food kya hai?",
+    "food_name": "Yogurt, frozen, flavors other than chocolate, lowfat",
+    "intent": 1,
+    "intent_name": "meal_suggestion",
+    "regression_target": 465.6,
+    "nutrition_vector": [
+      0.0556,
+      0.08,
+      0.0525,
+      0.0125,
+      0.0,
+      0.21,
+      0.0225,
+      0.1333
+    ],
+    "calorie_budget": null,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Aaj maine 1 Cookies, oatmeal, soft, with raisins khaya, kitna calorie hua?",
+    "food_name": "Cookies, oatmeal, soft, with raisins",
+    "intent": 0,
+    "intent_name": "calorie_query",
+    "regression_target": 430.0,
+    "nutrition_vector": [
+      0.172,
+      0.0579,
+      0.174,
+      0.0715,
+      0.066,
+      0.0,
+      0.157,
+      0.0193
+    ],
+    "calorie_budget": 689.3,
+    "source": "USDA_Foundation",
+    "language": "english"
+  },
+  {
+    "text": "Indian diet plan for muscle gain — kya khauon kya na khauon?",
+    "food_name": "Milk, filled, fluid, with blend of hydrogenated vegetable oils",
+    "intent": 2,
+    "intent_name": "diet_advice",
+    "regression_target": 1186.2,
+    "nutrition_vector": [
+      0.0252,
+      0.0333,
+      0.0119,
+      0.0173,
+      0.0,
+      0.0,
+      0.0285,
+      0.0853
+    ],
+    "calorie_budget": null,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "dinner mein kya khauon jo nutritious ho?",
+    "food_name": "Turnip greens and turnips, frozen, unprepared",
+    "intent": 1,
+    "intent_name": "meal_suggestion",
+    "regression_target": 116.5,
+    "nutrition_vector": [
+      0.0084,
+      0.0246,
+      0.0085,
+      0.0009,
+      0.048,
+      0.0,
+      0.009,
+      0.076
+    ],
+    "calorie_budget": 265.4,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Foods to avoid for PCOS management.",
+    "food_name": "Turkey, whole, breast, meat only, raw",
+    "intent": 2,
+    "intent_name": "diet_advice",
+    "regression_target": 2028.0,
+    "nutrition_vector": [
+      0.0456,
+      0.2366,
+      0.0004,
+      0.0074,
+      0.0,
+      0.0005,
+      0.0565,
+      0.0073
+    ],
+    "calorie_budget": null,
+    "source": "USDA_SR_Legacy",
+    "language": "english"
+  },
+  {
+    "text": "general fitness ke liye best Indian diet kya hai?",
+    "food_name": "Fast Foods, Fried Chicken, Drumstick, meat and skin with breading",
+    "intent": 2,
+    "intent_name": "diet_advice",
+    "regression_target": 2800,
+    "nutrition_vector": [
+      0.1068,
+      0.2113,
+      0.019,
+      0.0846,
+      0.01,
+      0.0,
+      0.2955,
+      0.016
+    ],
+    "calorie_budget": 2972.5,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Pork, oriental style, dehydrated high protein hai ya nahi?",
+    "food_name": "Pork, oriental style, dehydrated",
+    "intent": 3,
+    "intent_name": "nutrition_info",
+    "regression_target": 11.8,
+    "nutrition_vector": [
+      0.246,
+      0.118,
+      0.0035,
+      0.312,
+      0.0,
+      0.0,
+      0.3425,
+      0.0067
+    ],
+    "calorie_budget": 245.0,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Beverages, carbonated, root beer mein kitna protein hota hai?",
+    "food_name": "Beverages, carbonated, root beer",
+    "intent": 3,
+    "intent_name": "nutrition_info",
+    "regression_target": 0.0,
+    "nutrition_vector": [
+      0.0164,
+      0.0,
+      0.0265,
+      0.0,
+      0.0,
+      0.106,
+      0.0065,
+      0.0033
+    ],
+    "calorie_budget": 277.1,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "PCOS management ke liye konsa food avoid karna chahiye?",
+    "food_name": "Beans, small white, mature seeds, cooked, boiled, with salt",
+    "intent": 2,
+    "intent_name": "diet_advice",
+    "regression_target": 1930.9,
+    "nutrition_vector": [
+      0.0568,
+      0.0897,
+      0.0645,
+      0.0032,
+      0.208,
+      0.0,
+      0.119,
+      0.0487
+    ],
+    "calorie_budget": 2153.3,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "pre-workout meal mein kya healthy khana chahiye?",
+    "food_name": "Fireweed, leaves, raw",
+    "intent": 1,
+    "intent_name": "meal_suggestion",
+    "regression_target": 259.0,
+    "nutrition_vector": [
+      0.0412,
+      0.0471,
+      0.048,
+      0.0138,
+      0.212,
+      0.0,
+      0.017,
+      0.286
+    ],
+    "calorie_budget": 391.9,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Ek din mein kitna Fast foods, hamburger; single, regular patty; with condiments khana chahiye?",
+    "food_name": "Fast foods, hamburger; single, regular patty; with condiments",
+    "intent": 4,
+    "intent_name": "portion_control",
+    "regression_target": 100.0,
+    "nutrition_vector": [
+      0.1052,
+      0.133,
+      0.0739,
+      0.0509,
+      0.036,
+      0.0595,
+      0.2435,
+      0.0773
+    ],
+    "calorie_budget": null,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "What nutrients does Lamb, Australian, imported, fresh, seam fat, raw contain?",
+    "food_name": "Lamb, Australian, imported, fresh, seam fat, raw",
+    "intent": 3,
+    "intent_name": "nutrition_info",
+    "regression_target": 15.7,
+    "nutrition_vector": [
+      0.1836,
+      0.1565,
+      0.0,
+      0.22,
+      0.0,
+      0.0,
+      0.0275,
+      0.004
+    ],
+    "calorie_budget": 118.2,
+    "source": "USDA_SR_Legacy",
+    "language": "english"
+  },
+  {
+    "text": "How many calories in 150g Emu, fan fillet, cooked, broiled?",
+    "food_name": "Emu, fan fillet, cooked, broiled",
+    "intent": 0,
+    "intent_name": "calorie_query",
+    "regression_target": 231.0,
+    "nutrition_vector": [
+      0.0616,
+      0.3127,
+      0.0,
+      0.0115,
+      0.0,
+      0.0,
+      0.0265,
+      0.004
+    ],
+    "calorie_budget": null,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "heart health ke liye meal planning tips batao.",
+    "food_name": "Beef, round, full cut, separable lean and fat, trimmed to 1/8\" fat, choice, cooked, broiled",
+    "intent": 2,
+    "intent_name": "diet_advice",
+    "regression_target": 2800,
+    "nutrition_vector": [
+      0.094,
+      0.2754,
+      0.0,
+      0.0649,
+      0.0,
+      0.0,
+      0.031,
+      0.004
+    ],
+    "calorie_budget": null,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Sauce, white, thin, prepared-from-recipe, with butter mein carbohydrates kitne hote hain?",
+    "food_name": "Sauce, white, thin, prepared-from-recipe, with butter",
+    "intent": 3,
+    "intent_name": "nutrition_info",
+    "regression_target": 4.0,
+    "nutrition_vector": [
+      0.0288,
+      0.0395,
+      0.0207,
+      0.0128,
+      0.002,
+      0.0529,
+      0.092,
+      0.0873
+    ],
+    "calorie_budget": 206.0,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "lunch ke liye high fiber food suggest karo.",
+    "food_name": "Mammy-apple, (mamey), raw",
+    "intent": 1,
+    "intent_name": "meal_suggestion",
+    "regression_target": 299.4,
+    "nutrition_vector": [
+      0.0204,
+      0.005,
+      0.0312,
+      0.0025,
+      0.06,
+      0.0,
+      0.0075,
+      0.0073
+    ],
+    "calorie_budget": null,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "What foods to eat for weight loss?",
+    "food_name": "Margarine-like shortening, industrial, soy (partially hydrogenated), cottonseed, and soy, principal use flaky pastries",
+    "intent": 2,
+    "intent_name": "diet_advice",
+    "regression_target": 2800,
+    "nutrition_vector": [
+      0.2512,
+      0.0,
+      0.0,
+      0.355,
+      0.0,
+      0.0,
+      0.432,
+      0.0
+    ],
+    "calorie_budget": null,
+    "source": "USDA_SR_Legacy",
+    "language": "english"
+  },
+  {
+    "text": "Calories in 100g Pickle relish, hamburger please batao.",
+    "food_name": "Pickle relish, hamburger",
+    "intent": 0,
+    "intent_name": "calorie_query",
+    "regression_target": 129.0,
+    "nutrition_vector": [
+      0.0516,
+      0.0063,
+      0.0862,
+      0.0027,
+      0.064,
+      0.0,
+      0.548,
+      0.0027
+    ],
+    "calorie_budget": 234.5,
+    "source": "USDA_SR_Legacy",
+    "language": "english"
+  },
+  {
+    "text": "Suggest a healthy post-workout meal for PCOS management.",
+    "food_name": "Vinegar, cider",
+    "intent": 1,
+    "intent_name": "meal_suggestion",
+    "regression_target": 127.5,
+    "nutrition_vector": [
+      0.0084,
+      0.0,
+      0.0023,
+      0.0,
+      0.0,
+      0.004,
+      0.0025,
+      0.0047
+    ],
+    "calorie_budget": null,
+    "source": "USDA_SR_Legacy",
+    "language": "english"
+  },
+  {
+    "text": "Best superfoods for PCOS management in Indian context.",
+    "food_name": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, solids and liquids, low sodium",
+    "intent": 2,
+    "intent_name": "diet_advice",
+    "regression_target": 1860.8,
+    "nutrition_vector": [
+      0.0352,
+      0.0492,
+      0.0337,
+      0.0097,
+      0.088,
+      0.0259,
+      0.066,
+      0.0233
+    ],
+    "calorie_budget": 2010.1,
+    "source": "USDA_SR_Legacy",
+    "language": "english"
+  },
+  {
+    "text": "Suggest a healthy snack for general fitness.",
+    "food_name": "Beef, round, bottom round, steak, separable lean and fat, trimmed to 0\" fat, select, cooked, braised",
+    "intent": 1,
+    "intent_name": "meal_suggestion",
+    "regression_target": 290.0,
+    "nutrition_vector": [
+      0.0868,
+      0.3439,
+      0.0,
+      0.0386,
+      0.0,
+      0.0,
+      0.0225,
+      0.006
+    ],
+    "calorie_budget": 446.9,
+    "source": "USDA_SR_Legacy",
+    "language": "english"
+  },
+  {
+    "text": "Best lunch options for weight loss diet.",
+    "food_name": "Nabisco, Nabisco Grahams Crackers",
+    "intent": 1,
+    "intent_name": "meal_suggestion",
+    "regression_target": 489.2,
+    "nutrition_vector": [
+      0.1696,
+      0.0699,
+      0.1905,
+      0.05,
+      0.068,
+      0.23,
+      0.3295,
+      0.0527
+    ],
+    "calorie_budget": null,
+    "source": "USDA_SR_Legacy",
+    "language": "english"
+  },
+  {
+    "text": "Candies, coconut bar, not chocolate covered ke kya health benefits hain?",
+    "food_name": "Candies, coconut bar, not chocolate covered",
+    "intent": 3,
+    "intent_name": "nutrition_info",
+    "regression_target": 2.1,
+    "nutrition_vector": [
+      0.1924,
+      0.0213,
+      0.1397,
+      0.1382,
+      0.128,
+      0.3616,
+      0.064,
+      0.0287
+    ],
+    "calorie_budget": 287.6,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "dinner ke liye low calorie Indian food kya hai?",
+    "food_name": "Loquats, raw",
+    "intent": 1,
+    "intent_name": "meal_suggestion",
+    "regression_target": 253.0,
+    "nutrition_vector": [
+      0.0188,
+      0.0043,
+      0.0304,
+      0.001,
+      0.034,
+      0.0,
+      0.0005,
+      0.0107
+    ],
+    "calorie_budget": null,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Cheese, muenster, low fat ki safe daily serving kitni hai?",
+    "food_name": "Cheese, muenster, low fat",
+    "intent": 4,
+    "intent_name": "portion_control",
+    "regression_target": 100.0,
+    "nutrition_vector": [
+      0.1084,
+      0.247,
+      0.0088,
+      0.088,
+      0.0,
+      0.035,
+      0.3,
+      0.3527
+    ],
+    "calorie_budget": 222.8,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "snack ke liye high fiber food suggest karo.",
+    "food_name": "Ice cream cone, chocolate covered, with nuts, flavors other than chocolate",
+    "intent": 1,
+    "intent_name": "meal_suggestion",
+    "regression_target": 461.4,
+    "nutrition_vector": [
+      0.1416,
+      0.0521,
+      0.086,
+      0.1094,
+      0.02,
+      0.25,
+      0.047,
+      0.042
+    ],
+    "calorie_budget": 599.9,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Alcoholic beverage, wine, table, white, Muscat ka healthy portion size kya hota hai?",
+    "food_name": "Alcoholic beverage, wine, table, white, Muscat",
+    "intent": 4,
+    "intent_name": "portion_control",
+    "regression_target": 150.0,
+    "nutrition_vector": [
+      0.0328,
+      0.0007,
+      0.0131,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "calorie_budget": null,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Beef, shoulder pot roast or steak, boneless, separable lean only, trimmed to 0\" fat, select, raw ki safe daily serving kitni hai?",
+    "food_name": "Beef, shoulder pot roast or steak, boneless, separable lean only, trimmed to 0\" fat, select, raw",
+    "intent": 4,
+    "intent_name": "portion_control",
+    "regression_target": 200.0,
+    "nutrition_vector": [
+      0.0484,
+      0.2193,
+      0.0,
+      0.0185,
+      0.0,
+      0.0,
+      0.0355,
+      0.008
+    ],
+    "calorie_budget": 423.6,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "50g Beef, chuck, under blade pot roast or steak, boneless, separable lean only, trimmed to 0\" fat, select, raw kitni calories deta hai approximately?",
+    "food_name": "Beef, chuck, under blade pot roast or steak, boneless, separable lean only, trimmed to 0\" fat, select, raw",
+    "intent": 0,
+    "intent_name": "calorie_query",
+    "regression_target": 134.0,
+    "nutrition_vector": [
+      0.0536,
+      0.2103,
+      0.0005,
+      0.0271,
+      0.0,
+      0.0,
+      0.0405,
+      0.008
+    ],
+    "calorie_budget": null,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "weight loss ke liye meal planning tips batao.",
+    "food_name": "Vegetables, mixed, canned, drained solids",
+    "intent": 2,
+    "intent_name": "diet_advice",
+    "regression_target": 1450.9,
+    "nutrition_vector": [
+      0.0196,
+      0.0259,
+      0.0232,
+      0.0013,
+      0.06,
+      0.0241,
+      0.107,
+      0.018
+    ],
+    "calorie_budget": 1720.8,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "lunch ke liye vegetarian options suggest karo.",
+    "food_name": "Cheese, ricotta, part skim milk",
+    "intent": 1,
+    "intent_name": "meal_suggestion",
+    "regression_target": 372.2,
+    "nutrition_vector": [
+      0.0552,
+      0.1139,
+      0.0128,
+      0.0396,
+      0.0,
+      0.0031,
+      0.0495,
+      0.1813
+    ],
+    "calorie_budget": null,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Kitna Fish, lingcod, cooked, dry heat ek meal mein sahi hai?",
+    "food_name": "Fish, lingcod, cooked, dry heat",
+    "intent": 4,
+    "intent_name": "portion_control",
+    "regression_target": 200.0,
+    "nutrition_vector": [
+      0.0436,
+      0.2264,
+      0.0,
+      0.0068,
+      0.0,
+      0.0,
+      0.038,
+      0.012
+    ],
+    "calorie_budget": null,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "snack mein kya khauon jo nutritious ho?",
+    "food_name": "Fish, tuna, white, canned in oil, drained solids",
+    "intent": 1,
+    "intent_name": "meal_suggestion",
+    "regression_target": 558.9,
+    "nutrition_vector": [
+      0.0744,
+      0.2653,
+      0.0,
+      0.0404,
+      0.0,
+      0.0,
+      0.198,
+      0.0027
+    ],
+    "calorie_budget": 706.0,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "PCOS management achieve karne ke liye kya khana chahiye?",
+    "food_name": "Pork, cured, ham, boneless, regular (approximately 11% fat), roasted",
+    "intent": 2,
+    "intent_name": "diet_advice",
+    "regression_target": 2484.9,
+    "nutrition_vector": [
+      0.0712,
+      0.2262,
+      0.0,
+      0.0451,
+      0.0,
+      0.0,
+      0.75,
+      0.0053
+    ],
+    "calorie_budget": 2559.0,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "2 Fish, lingcod, meat, raw (Alaska Native) khaya — total calories kya hongi?",
+    "food_name": "Fish, lingcod, meat, raw (Alaska Native)",
+    "intent": 0,
+    "intent_name": "calorie_query",
+    "regression_target": 158.0,
+    "nutrition_vector": [
+      0.0316,
+      0.179,
+      0.0,
+      0.004,
+      0.0,
+      0.0,
+      0.0295,
+      0.0
+    ],
+    "calorie_budget": null,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Ek din mein kitna Pancakes, whole wheat, dry mix, incomplete khana chahiye?",
+    "food_name": "Pancakes, whole wheat, dry mix, incomplete",
+    "intent": 4,
+    "intent_name": "portion_control",
+    "regression_target": 200.0,
+    "nutrition_vector": [
+      0.14,
+      0.1053,
+      0.1853,
+      0.0066,
+      0.158,
+      0.1053,
+      0.816,
+      0.1053
+    ],
+    "calorie_budget": null,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Aaj maine 1 plate Beef, shoulder pot roast or steak, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw khaya, kitna calorie hua?",
+    "food_name": "Beef, shoulder pot roast or steak, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw",
+    "intent": 0,
+    "intent_name": "calorie_query",
+    "regression_target": 130.0,
+    "nutrition_vector": [
+      0.052,
+      0.2139,
+      0.0,
+      0.0248,
+      0.0,
+      0.0,
+      0.036,
+      0.008
+    ],
+    "calorie_budget": 285.9,
+    "source": "USDA_SR_Legacy",
+    "language": "english"
+  },
+  {
+    "text": "Is Seeds, sunflower seed kernels, oil roasted, with salt added a good source of calcium?",
+    "food_name": "Seeds, sunflower seed kernels, oil roasted, with salt added",
+    "intent": 3,
+    "intent_name": "nutrition_info",
+    "regression_target": 20.1,
+    "nutrition_vector": [
+      0.2368,
+      0.2006,
+      0.0572,
+      0.2565,
+      0.212,
+      0.0311,
+      0.1515,
+      0.058
+    ],
+    "calorie_budget": 261.7,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "breakfast ke liye vegetarian options suggest karo.",
+    "food_name": "Chicken, feet, boiled",
+    "intent": 1,
+    "intent_name": "meal_suggestion",
+    "regression_target": 622.1,
+    "nutrition_vector": [
+      0.086,
+      0.194,
+      0.0005,
+      0.073,
+      0.0,
+      0.0,
+      0.0335,
+      0.0587
+    ],
+    "calorie_budget": 812.9,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "heart health achieve karne ke liye kya khana chahiye?",
+    "food_name": "Fish, bass, freshwater, mixed species, cooked, dry heat",
+    "intent": 2,
+    "intent_name": "diet_advice",
+    "regression_target": 2203.9,
+    "nutrition_vector": [
+      0.0584,
+      0.2418,
+      0.0,
+      0.0237,
+      0.0,
+      0.0,
+      0.045,
+      0.0687
+    ],
+    "calorie_budget": 2302.9,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "PCOS management ke liye konsa food avoid karna chahiye?",
+    "food_name": "McDONALD'S, Strawberry Sundae",
+    "intent": 2,
+    "intent_name": "diet_advice",
+    "regression_target": 2307.0,
+    "nutrition_vector": [
+      0.0632,
+      0.0319,
+      0.0702,
+      0.0198,
+      0.0,
+      0.2532,
+      0.0235,
+      0.0733
+    ],
+    "calorie_budget": 2483.5,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Light snack suggestions for energy boost.",
+    "food_name": "Lamb, Australian, imported, fresh, rib chop/rack roast, frenched, bone-in, separable lean and fat, trimmed to 1/8\" fat, raw",
+    "intent": 1,
+    "intent_name": "meal_suggestion",
+    "regression_target": 182.2,
+    "nutrition_vector": [
+      0.0948,
+      0.2126,
+      0.0,
+      0.0844,
+      0.0,
+      0.0,
+      0.0345,
+      0.0047
+    ],
+    "calorie_budget": 278.4,
+    "source": "USDA_SR_Legacy",
+    "language": "english"
+  },
+  {
+    "text": "Tomatoes, red, ripe, canned, with green chilies mein kaunsa vitamin hota hai mainly?",
+    "food_name": "Tomatoes, red, ripe, canned, with green chilies",
+    "intent": 3,
+    "intent_name": "nutrition_info",
+    "regression_target": 0.7,
+    "nutrition_vector": [
+      0.006,
+      0.0069,
+      0.0091,
+      0.0004,
+      0.0,
+      0.0,
+      0.2005,
+      0.0133
+    ],
+    "calorie_budget": 280.9,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Nutritional profile of Babyfood, apples, dices, toddler batao.",
+    "food_name": "Babyfood, apples, dices, toddler",
+    "intent": 3,
+    "intent_name": "nutrition_info",
+    "regression_target": 0.2,
+    "nutrition_vector": [
+      0.02,
+      0.0019,
+      0.0289,
+      0.0018,
+      0.038,
+      0.1048,
+      0.001,
+      0.0027
+    ],
+    "calorie_budget": null,
+    "source": "USDA_SR_Legacy",
+    "language": "english"
+  },
+  {
+    "text": "Nutritional profile of Spices, poultry seasoning batao.",
+    "food_name": "Spices, poultry seasoning",
+    "intent": 3,
+    "intent_name": "nutrition_info",
+    "regression_target": 9.6,
+    "nutrition_vector": [
+      0.1228,
+      0.0959,
+      0.164,
+      0.0377,
+      0.226,
+      0.018,
+      0.0135,
+      0.664
+    ],
+    "calorie_budget": null,
+    "source": "USDA_SR_Legacy",
+    "language": "english"
+  },
+  {
+    "text": "Daily limit of Bacon, turkey, low sodium kya hona chahiye?",
+    "food_name": "Bacon, turkey, low sodium",
+    "intent": 4,
+    "intent_name": "portion_control",
+    "regression_target": 200.0,
+    "nutrition_vector": [
+      0.1012,
+      0.1333,
+      0.012,
+      0.1,
+      0.0,
+      0.0,
+      0.45,
+      0.0067
+    ],
+    "calorie_budget": 311.8,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Aaj maine 150g HORMEL Canadian Style Bacon khaya, kitna calorie hua?",
+    "food_name": "HORMEL Canadian Style Bacon",
+    "intent": 0,
+    "intent_name": "calorie_query",
+    "regression_target": 183.0,
+    "nutrition_vector": [
+      0.0488,
+      0.1688,
+      0.0047,
+      0.0247,
+      0.0,
+      0.0143,
+      0.508,
+      0.004
+    ],
+    "calorie_budget": 423.1,
+    "source": "USDA_SR_Legacy",
+    "language": "english"
+  },
+  {
+    "text": "Oats (cooked) mein carbohydrates kitne hote hain?",
+    "food_name": "Oats (cooked)",
+    "intent": 3,
+    "intent_name": "nutrition_info",
+    "regression_target": 2.5,
+    "nutrition_vector": [
+      0.0284,
+      0.025,
+      0.03,
+      0.0075,
+      0.034,
+      0.005,
+      0.0245,
+      0.0067
+    ],
+    "calorie_budget": null,
+    "source": "ICMR_NIN_2017",
+    "language": "hinglish"
+  },
+  {
+    "text": "What should I eat for post-workout meal to support energy boost?",
+    "food_name": "Beef, round, tip round, separable lean and fat, trimmed to 1/8\" fat, select, raw",
+    "intent": 1,
+    "intent_name": "meal_suggestion",
+    "regression_target": 247.1,
+    "nutrition_vector": [
+      0.0712,
+      0.1974,
+      0.0,
+      0.052,
+      0.0,
+      0.0,
+      0.029,
+      0.0033
+    ],
+    "calorie_budget": 534.3,
+    "source": "USDA_SR_Legacy",
+    "language": "english"
+  },
+  {
+    "text": "How to manage diet for thyroid health?",
+    "food_name": "Infant formula, NESTLE, GOOD START ESSENTIALS SOY, with iron, powder",
+    "intent": 2,
+    "intent_name": "diet_advice",
+    "regression_target": 2800,
+    "nutrition_vector": [
+      0.2008,
+      0.125,
+      0.1393,
+      0.1275,
+      0.0,
+      0.4438,
+      0.09,
+      0.3507
+    ],
+    "calorie_budget": 2882.6,
+    "source": "USDA_SR_Legacy",
+    "language": "english"
+  },
+  {
+    "text": "How many calories in 1 cup Candies, HERSHEY'S SKOR Toffee Bar?",
+    "food_name": "Candies, HERSHEY'S SKOR Toffee Bar",
+    "intent": 0,
+    "intent_name": "calorie_query",
+    "regression_target": 541.0,
+    "nutrition_vector": [
+      0.2164,
+      0.0313,
+      0.1593,
+      0.1519,
+      0.026,
+      0.5989,
+      0.1585,
+      0.02
+    ],
+    "calorie_budget": 691.1,
+    "source": "USDA_SR_Legacy",
+    "language": "english"
+  },
+  {
+    "text": "Suggest a healthy pre-workout meal for general fitness.",
+    "food_name": "Oil, teaseed",
+    "intent": 1,
+    "intent_name": "meal_suggestion",
+    "regression_target": 1039.7,
+    "nutrition_vector": [
+      0.3536,
+      0.0,
+      0.0,
+      0.5,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "calorie_budget": 1253.1,
+    "source": "USDA_SR_Legacy",
+    "language": "english"
+  },
+  {
+    "text": "lunch mein kya healthy khana chahiye?",
+    "food_name": "Pillsbury Grands, Buttermilk Biscuits, refrigerated dough",
+    "intent": 1,
+    "intent_name": "meal_suggestion",
+    "regression_target": 226.2,
+    "nutrition_vector": [
+      0.1172,
+      0.0616,
+      0.106,
+      0.0567,
+      0.03,
+      0.046,
+      0.533,
+      0.0153
+    ],
+    "calorie_budget": 447.8,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "What is the nutritional value of Egg, whole, raw, frozen, pasteurized (Includes foods for USDA's Food Distribution Program)?",
+    "food_name": "Egg, whole, raw, frozen, pasteurized (Includes foods for USDA's Food Distribution Program)",
+    "intent": 3,
+    "intent_name": "nutrition_info",
+    "regression_target": 12.3,
+    "nutrition_vector": [
+      0.0588,
+      0.1233,
+      0.0025,
+      0.0497,
+      0.0,
+      0.0025,
+      0.064,
+      0.0413
+    ],
+    "calorie_budget": 65.5,
+    "source": "USDA_SR_Legacy",
+    "language": "english"
+  },
+  {
+    "text": "How many calories in 50g BANQUET, Salisbury Steak With Gravy, family size, frozen, unprepared?",
+    "food_name": "BANQUET, Salisbury Steak With Gravy, family size, frozen, unprepared",
+    "intent": 0,
+    "intent_name": "calorie_query",
+    "regression_target": 155.0,
+    "nutrition_vector": [
+      0.062,
+      0.0689,
+      0.0174,
+      0.0555,
+      0.02,
+      0.0028,
+      0.2585,
+      0.034
+    ],
+    "calorie_budget": null,
+    "source": "USDA_SR_Legacy",
+    "language": "english"
+  },
+  {
+    "text": "Babyfood, GERBER, 2nd Foods, apple, carrot and squash, organic mein kaunsa vitamin hota hai mainly?",
+    "food_name": "Babyfood, GERBER, 2nd Foods, apple, carrot and squash, organic",
+    "intent": 3,
+    "intent_name": "nutrition_info",
+    "regression_target": 1.1,
+    "nutrition_vector": [
+      0.0256,
+      0.011,
+      0.037,
+      0.0,
+      0.024,
+      0.0909,
+      0.01,
+      0.004
+    ],
+    "calorie_budget": 202.4,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "breakfast mein kya healthy khana chahiye?",
+    "food_name": "Squash, Indian, cooked, boiled (Navajo)",
+    "intent": 1,
+    "intent_name": "meal_suggestion",
+    "regression_target": 113.2,
+    "nutrition_vector": [
+      0.0064,
+      0.0031,
+      0.008,
+      0.0008,
+      0.03,
+      0.0202,
+      0.0,
+      0.0
+    ],
+    "calorie_budget": null,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "weight loss ke liye protein intake kitna hona chahiye?",
+    "food_name": "Whale, beluga, flipper, raw (Alaska Native)",
+    "intent": 2,
+    "intent_name": "diet_advice",
+    "regression_target": 2800,
+    "nutrition_vector": [
+      0.1084,
+      0.19,
+      0.0,
+      0.1085,
+      0.0,
+      0.0,
+      0.0,
+      0.0073
+    ],
+    "calorie_budget": 3072.6,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Best lunch options for PCOS management diet.",
+    "food_name": "Kiwifruit, ZESPRI SunGold, raw",
+    "intent": 1,
+    "intent_name": "meal_suggestion",
+    "regression_target": 283.5,
+    "nutrition_vector": [
+      0.0252,
+      0.0102,
+      0.0395,
+      0.0014,
+      0.028,
+      0.123,
+      0.0015,
+      0.0113
+    ],
+    "calorie_budget": 544.6,
+    "source": "USDA_SR_Legacy",
+    "language": "english"
+  },
+  {
+    "text": "Lamb, Australian, imported, fresh, loin, separable lean only, trimmed to 1/8\" fat, cooked, broiled high protein hai ya nahi?",
+    "food_name": "Lamb, Australian, imported, fresh, loin, separable lean only, trimmed to 1/8\" fat, cooked, broiled",
+    "intent": 3,
+    "intent_name": "nutrition_info",
+    "regression_target": 26.5,
+    "nutrition_vector": [
+      0.0768,
+      0.2653,
+      0.0,
+      0.0437,
+      0.0,
+      0.0,
+      0.04,
+      0.014
+    ],
+    "calorie_budget": null,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "How to manage diet for heart health?",
+    "food_name": "Beans, kidney, red, mature seeds, canned, solids and liquid, low sodium",
+    "intent": 2,
+    "intent_name": "diet_advice",
+    "regression_target": 1683.8,
+    "nutrition_vector": [
+      0.0324,
+      0.0522,
+      0.0371,
+      0.0018,
+      0.106,
+      0.0185,
+      0.0585,
+      0.0193
+    ],
+    "calorie_budget": 1966.0,
+    "source": "USDA_SR_Legacy",
+    "language": "english"
+  },
+  {
+    "text": "Aaj maine half serving Squash, winter, spaghetti, cooked, boiled, drained, or baked, without salt khaya, kitna calorie hua?",
+    "food_name": "Squash, winter, spaghetti, cooked, boiled, drained, or baked, without salt",
+    "intent": 0,
+    "intent_name": "calorie_query",
+    "regression_target": 13.5,
+    "nutrition_vector": [
+      0.0108,
+      0.0066,
+      0.0162,
+      0.0013,
+      0.028,
+      0.0253,
+      0.009,
+      0.014
+    ],
+    "calorie_budget": 76.5,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Recommended Lima beans, immature seeds, frozen, baby, unprepared intake per day batao.",
+    "food_name": "Lima beans, immature seeds, frozen, baby, unprepared",
+    "intent": 4,
+    "intent_name": "portion_control",
+    "regression_target": 50.0,
+    "nutrition_vector": [
+      0.0528,
+      0.0759,
+      0.0629,
+      0.0022,
+      0.12,
+      0.0,
+      0.026,
+      0.0233
+    ],
+    "calorie_budget": null,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Recommended Crackers, cheese, low sodium intake per day batao.",
+    "food_name": "Crackers, cheese, low sodium",
+    "intent": 4,
+    "intent_name": "portion_control",
+    "regression_target": 200.0,
+    "nutrition_vector": [
+      0.2012,
+      0.101,
+      0.1455,
+      0.1265,
+      0.048,
+      0.0028,
+      0.229,
+      0.1007
+    ],
+    "calorie_budget": 411.3,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Kitna Chicken, broilers or fryers, thigh, meat only, cooked, roasted ek meal mein sahi hai?",
+    "food_name": "Chicken, broilers or fryers, thigh, meat only, cooked, roasted",
+    "intent": 4,
+    "intent_name": "portion_control",
+    "regression_target": 200.0,
+    "nutrition_vector": [
+      0.0716,
+      0.2476,
+      0.0,
+      0.0408,
+      0.0,
+      0.0,
+      0.053,
+      0.006
+    ],
+    "calorie_budget": null,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "PCOS management ke liye meal planning tips batao.",
+    "food_name": "Lamb, New Zealand, imported, square-cut shoulder chops, separable lean only, raw",
+    "intent": 2,
+    "intent_name": "diet_advice",
+    "regression_target": 2301.8,
+    "nutrition_vector": [
+      0.0656,
+      0.2062,
+      0.0,
+      0.0454,
+      0.0,
+      0.0,
+      0.041,
+      0.018
+    ],
+    "calorie_budget": 2568.7,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Ek din mein kitna Turkey, ground, fat free, patties, broiled khana chahiye?",
+    "food_name": "Turkey, ground, fat free, patties, broiled",
+    "intent": 4,
+    "intent_name": "portion_control",
+    "regression_target": 50.0,
+    "nutrition_vector": [
+      0.0552,
+      0.2899,
+      0.0,
+      0.0124,
+      0.0,
+      0.0,
+      0.0295,
+      0.004
+    ],
+    "calorie_budget": 127.0,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Milk, nonfat, fluid, protein fortified, with added vitamin A and vitamin D (fat free and skim) overeat karne se kya hoga?",
+    "food_name": "Milk, nonfat, fluid, protein fortified, with added vitamin A and vitamin D (fat free and skim)",
+    "intent": 4,
+    "intent_name": "portion_control",
+    "regression_target": 100.0,
+    "nutrition_vector": [
+      0.0164,
+      0.0396,
+      0.0139,
+      0.0013,
+      0.0,
+      0.0,
+      0.0295,
+      0.0953
+    ],
+    "calorie_budget": null,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "heart health ke liye protein intake kitna hona chahiye?",
+    "food_name": "Beef, chuck, mock tender steak, boneless, separable lean and fat, trimmed to 0\" fat, all grades, raw",
+    "intent": 2,
+    "intent_name": "diet_advice",
+    "regression_target": 2150.0,
+    "nutrition_vector": [
+      0.0512,
+      0.2113,
+      0.0,
+      0.0239,
+      0.0,
+      0.0,
+      0.04,
+      0.0073
+    ],
+    "calorie_budget": null,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "breakfast ke liye vegetarian options suggest karo.",
+    "food_name": "Babyfood, dinner, chicken and rice",
+    "intent": 1,
+    "intent_name": "meal_suggestion",
+    "regression_target": 159.6,
+    "nutrition_vector": [
+      0.0204,
+      0.016,
+      0.023,
+      0.0045,
+      0.022,
+      0.0055,
+      0.0125,
+      0.012
+    ],
+    "calorie_budget": 317.9,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Suggest a healthy lunch for energy boost.",
+    "food_name": "Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, drained, rinsed in tap water",
+    "intent": 1,
+    "intent_name": "meal_suggestion",
+    "regression_target": 450.0,
+    "nutrition_vector": [
+      0.0552,
+      0.0704,
+      0.0572,
+      0.0124,
+      0.126,
+      0.04,
+      0.106,
+      0.0287
+    ],
+    "calorie_budget": 510.1,
+    "source": "USDA_SR_Legacy",
+    "language": "english"
+  },
+  {
+    "text": "Tell me calories for half serving Beverages, carbonated, low calorie, cola or pepper-type, with aspartame, contains caffeine.",
+    "food_name": "Beverages, carbonated, low calorie, cola or pepper-type, with aspartame, contains caffeine",
+    "intent": 0,
+    "intent_name": "calorie_query",
+    "regression_target": 1.0,
+    "nutrition_vector": [
+      0.0008,
+      0.0011,
+      0.0007,
+      0.0001,
+      0.0,
+      0.0,
+      0.004,
+      0.002
+    ],
+    "calorie_budget": 196.7,
+    "source": "USDA_SR_Legacy",
+    "language": "english"
+  },
+  {
+    "text": "Nutritional profile of Cereals, QUAKER, Weight Control Instant Oatmeal, maple and brown sugar batao.",
+    "food_name": "Cereals, QUAKER, Weight Control Instant Oatmeal, maple and brown sugar",
+    "intent": 3,
+    "intent_name": "nutrition_info",
+    "regression_target": 16.4,
+    "nutrition_vector": [
+      0.1444,
+      0.1637,
+      0.1606,
+      0.031,
+      0.26,
+      0.0125,
+      0.321,
+      0.1787
+    ],
+    "calorie_budget": 283.5,
+    "source": "USDA_SR_Legacy",
+    "language": "english"
+  },
+  {
+    "text": "200g Crackers, matzo, whole-wheat kitni calories deta hai approximately?",
+    "food_name": "Crackers, matzo, whole-wheat",
+    "intent": 0,
+    "intent_name": "calorie_query",
+    "regression_target": 702.0,
+    "nutrition_vector": [
+      0.1404,
+      0.131,
+      0.1973,
+      0.0075,
+      0.236,
+      0.0,
+      0.001,
+      0.0153
+    ],
+    "calorie_budget": null,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Muffins, oat bran ka calorie kitna hoga agar half cup khauon?",
+    "food_name": "Muffins, oat bran",
+    "intent": 0,
+    "intent_name": "calorie_query",
+    "regression_target": 135.0,
+    "nutrition_vector": [
+      0.108,
+      0.07,
+      0.1207,
+      0.037,
+      0.092,
+      0.0822,
+      0.1965,
+      0.042
+    ],
+    "calorie_budget": 289.7,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Blueberries, frozen, unsweetened (Includes foods for USDA's Food Distribution Program) overeat karne se kya hoga?",
+    "food_name": "Blueberries, frozen, unsweetened (Includes foods for USDA's Food Distribution Program)",
+    "intent": 4,
+    "intent_name": "portion_control",
+    "regression_target": 50.0,
+    "nutrition_vector": [
+      0.0204,
+      0.0042,
+      0.0304,
+      0.0032,
+      0.054,
+      0.0845,
+      0.0005,
+      0.0053
+    ],
+    "calorie_budget": 148.9,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Diet tips for general fitness in India.",
+    "food_name": "Veal, Australian, shank, hind, bone-in, separable lean only, raw",
+    "intent": 2,
+    "intent_name": "diet_advice",
+    "regression_target": 1765.7,
+    "nutrition_vector": [
+      0.0488,
+      0.2037,
+      0.0,
+      0.0223,
+      0.0,
+      0.0,
+      0.049,
+      0.0113
+    ],
+    "calorie_budget": 2048.4,
+    "source": "USDA_SR_Legacy",
+    "language": "english"
+  },
+  {
+    "text": "Kitni calories hoti hain half cup Vitasoy USA Azumaya, Extra Firm Tofu mein roughly?",
+    "food_name": "Vitasoy USA Azumaya, Extra Firm Tofu",
+    "intent": 0,
+    "intent_name": "calorie_query",
+    "regression_target": 44.0,
+    "nutrition_vector": [
+      0.0352,
+      0.1007,
+      0.0038,
+      0.023,
+      0.018,
+      0.005,
+      0.013,
+      0.1173
+    ],
+    "calorie_budget": 250.8,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "breakfast mein kya khauon jo nutritious ho?",
+    "food_name": "Fish, salmon, tipnuk, fermented (Alaska Native)",
+    "intent": 1,
+    "intent_name": "meal_suggestion",
+    "regression_target": 383.3,
+    "nutrition_vector": [
+      0.0636,
+      0.159,
+      0.0,
+      0.053,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "calorie_budget": 463.7,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Best pre-workout meal options for weight loss diet.",
+    "food_name": "Peppers, sweet, green, sauteed",
+    "intent": 1,
+    "intent_name": "meal_suggestion",
+    "regression_target": 193.3,
+    "nutrition_vector": [
+      0.0464,
+      0.0078,
+      0.0105,
+      0.0592,
+      0.036,
+      0.0217,
+      0.0085,
+      0.0053
+    ],
+    "calorie_budget": 445.5,
+    "source": "USDA_SR_Legacy",
+    "language": "english"
+  },
+  {
+    "text": "heart health ke liye meal planning tips batao.",
+    "food_name": "Pork, fresh, composite of trimmed retail cuts (loin and shoulder blade), separable lean and fat, cooked",
+    "intent": 2,
+    "intent_name": "diet_advice",
+    "regression_target": 2800,
+    "nutrition_vector": [
+      0.094,
+      0.2607,
+      0.0,
+      0.0683,
+      0.0,
+      0.0,
+      0.0275,
+      0.0133
+    ],
+    "calorie_budget": 3099.3,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "What nutrients does Spearmint, dried contain?",
+    "food_name": "Spearmint, dried",
+    "intent": 3,
+    "intent_name": "nutrition_info",
+    "regression_target": 19.9,
+    "nutrition_vector": [
+      0.114,
+      0.1993,
+      0.1301,
+      0.0301,
+      0.596,
+      0.0,
+      0.172,
+      0.992
+    ],
+    "calorie_budget": null,
+    "source": "USDA_SR_Legacy",
+    "language": "english"
+  },
+  {
+    "text": "Foods to avoid for weight loss.",
+    "food_name": "Chicken, broilers or fryers, dark meat, drumstick, meat and skin, cooked, braised",
+    "intent": 2,
+    "intent_name": "diet_advice",
+    "regression_target": 2628.8,
+    "nutrition_vector": [
+      0.0748,
+      0.2272,
+      0.0,
+      0.0537,
+      0.0,
+      0.0,
+      0.0555,
+      0.008
+    ],
+    "calorie_budget": 2754.3,
+    "source": "USDA_SR_Legacy",
+    "language": "english"
+  },
+  {
+    "text": "Best superfoods for heart health in Indian context.",
+    "food_name": "Sausage, Berliner, pork, beef",
+    "intent": 2,
+    "intent_name": "diet_advice",
+    "regression_target": 2800,
+    "nutrition_vector": [
+      0.092,
+      0.1527,
+      0.0065,
+      0.086,
+      0.0,
+      0.0235,
+      0.6485,
+      0.008
+    ],
+    "calorie_budget": null,
+    "source": "USDA_SR_Legacy",
+    "language": "english"
+  },
+  {
+    "text": "How to manage diet for PCOS management?",
+    "food_name": "Olives, pickled, canned or bottled, green",
+    "intent": 2,
+    "intent_name": "diet_advice",
+    "regression_target": 1991.3,
+    "nutrition_vector": [
+      0.058,
+      0.0103,
+      0.0096,
+      0.0766,
+      0.066,
+      0.0054,
+      0.778,
+      0.0347
+    ],
+    "calorie_budget": 2053.6,
+    "source": "USDA_SR_Legacy",
+    "language": "english"
+  },
+  {
+    "text": "weight loss ke liye protein intake kitna hona chahiye?",
+    "food_name": "Lamb, shoulder, arm, separable lean and fat, trimmed to 1/4\" fat, choice, cooked, broiled",
+    "intent": 2,
+    "intent_name": "diet_advice",
+    "regression_target": 2800,
+    "nutrition_vector": [
+      0.1124,
+      0.2444,
+      0.0,
+      0.0978,
+      0.0,
+      0.0,
+      0.0385,
+      0.012
+    ],
+    "calorie_budget": 2883.7,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Is Snacks, potato chips, fat free, salted a good source of calcium?",
+    "food_name": "Snacks, potato chips, fat free, salted",
+    "intent": 3,
+    "intent_name": "nutrition_info",
+    "regression_target": 9.6,
+    "nutrition_vector": [
+      0.1516,
+      0.0964,
+      0.2094,
+      0.003,
+      0.15,
+      0.0369,
+      0.3215,
+      0.0233
+    ],
+    "calorie_budget": null,
+    "source": "USDA_SR_Legacy",
+    "language": "english"
+  },
+  {
+    "text": "energy boost ke liye best Indian diet kya hai?",
+    "food_name": "Pie crust, cookie-type, prepared from recipe, vanilla wafer, chilled",
+    "intent": 2,
+    "intent_name": "diet_advice",
+    "regression_target": 2800,
+    "nutrition_vector": [
+      0.2124,
+      0.037,
+      0.1255,
+      0.181,
+      0.002,
+      0.0733,
+      0.2575,
+      0.028
+    ],
+    "calorie_budget": null,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Tell me calories for half cup Beef, New Zealand, imported, tenderloin, separable lean and fat, raw.",
+    "food_name": "Beef, New Zealand, imported, tenderloin, separable lean and fat, raw",
+    "intent": 0,
+    "intent_name": "calorie_query",
+    "regression_target": 73.0,
+    "nutrition_vector": [
+      0.0584,
+      0.2104,
+      0.0,
+      0.0344,
+      0.0,
+      0.0,
+      0.0195,
+      0.0027
+    ],
+    "calorie_budget": 352.5,
+    "source": "USDA_SR_Legacy",
+    "language": "english"
+  },
+  {
+    "text": "Calories in half serving Beverages, nutritional shake mix, high protein, powder please batao.",
+    "food_name": "Beverages, nutritional shake mix, high protein, powder",
+    "intent": 0,
+    "intent_name": "calorie_query",
+    "regression_target": 196.0,
+    "nutrition_vector": [
+      0.1568,
+      0.5357,
+      0.0509,
+      0.0536,
+      0.0,
+      0.0357,
+      0.607,
+      0.476
+    ],
+    "calorie_budget": 465.1,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Kitna Milk, chocolate, fluid, commercial, reduced fat, with added vitamin A and vitamin D ek meal mein sahi hai?",
+    "food_name": "Milk, chocolate, fluid, commercial, reduced fat, with added vitamin A and vitamin D",
+    "intent": 4,
+    "intent_name": "portion_control",
+    "regression_target": 100.0,
+    "nutrition_vector": [
+      0.0304,
+      0.0299,
+      0.0303,
+      0.0095,
+      0.014,
+      0.0955,
+      0.033,
+      0.0727
+    ],
+    "calorie_budget": 211.5,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "What is the calorie content of 1 cup Beef, chuck, arm pot roast, separable lean and fat, trimmed to 1/8\" fat, all grades, cooked, braised?",
+    "food_name": "Beef, chuck, arm pot roast, separable lean and fat, trimmed to 1/8\" fat, all grades, cooked, braised",
+    "intent": 0,
+    "intent_name": "calorie_query",
+    "regression_target": 302.0,
+    "nutrition_vector": [
+      0.1208,
+      0.3012,
+      0.0,
+      0.0961,
+      0.0,
+      0.0,
+      0.025,
+      0.0113
+    ],
+    "calorie_budget": 513.8,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "What is the nutritional value of Game meat, elk, raw?",
+    "food_name": "Game meat, elk, raw",
+    "intent": 3,
+    "intent_name": "nutrition_info",
+    "regression_target": 22.9,
+    "nutrition_vector": [
+      0.0444,
+      0.2295,
+      0.0,
+      0.0072,
+      0.0,
+      0.0,
+      0.029,
+      0.0027
+    ],
+    "calorie_budget": 150.8,
+    "source": "USDA_SR_Legacy",
+    "language": "english"
+  },
+  {
+    "text": "How many calories in 1 cup Milk, nonfat, fluid, with added nonfat milk solids, vitamin A and vitamin D (fat free or skim)?",
+    "food_name": "Milk, nonfat, fluid, with added nonfat milk solids, vitamin A and vitamin D (fat free or skim)",
+    "intent": 0,
+    "intent_name": "calorie_query",
+    "regression_target": 37.0,
+    "nutrition_vector": [
+      0.0148,
+      0.0357,
+      0.0125,
+      0.0013,
+      0.0,
+      0.0502,
+      0.0265,
+      0.086
+    ],
+    "calorie_budget": null,
+    "source": "USDA_SR_Legacy",
+    "language": "english"
+  },
+  {
+    "text": "Aloo Gobi mein carbohydrates kitne hote hain?",
+    "food_name": "Aloo Gobi",
+    "intent": 3,
+    "intent_name": "nutrition_info",
+    "regression_target": 2.5,
+    "nutrition_vector": [
+      0.038,
+      0.025,
+      0.0338,
+      0.02,
+      0.06,
+      0.025,
+      0.1,
+      0.02
+    ],
+    "calorie_budget": 291.9,
+    "source": "ICMR_NIN_2017",
+    "language": "hinglish"
+  },
+  {
+    "text": "Recommended Beef, flank, steak, separable lean only, trimmed to 0\" fat, choice, cooked, broiled intake per day batao.",
+    "food_name": "Beef, flank, steak, separable lean only, trimmed to 0\" fat, choice, cooked, broiled",
+    "intent": 4,
+    "intent_name": "portion_control",
+    "regression_target": 200.0,
+    "nutrition_vector": [
+      0.0776,
+      0.2782,
+      0.0,
+      0.0416,
+      0.0,
+      0.0,
+      0.028,
+      0.01
+    ],
+    "calorie_budget": 366.1,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "PCOS management achieve karne ke liye kya khana chahiye?",
+    "food_name": "Asparagus, canned, regular pack, solids and liquids",
+    "intent": 2,
+    "intent_name": "diet_advice",
+    "regression_target": 1140.8,
+    "nutrition_vector": [
+      0.006,
+      0.018,
+      0.0062,
+      0.0009,
+      0.02,
+      0.0,
+      0.142,
+      0.01
+    ],
+    "calorie_budget": 1380.0,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "snack mein kya healthy khana chahiye?",
+    "food_name": "Turkey, whole, wing, meat only, cooked, roasted",
+    "intent": 1,
+    "intent_name": "meal_suggestion",
+    "regression_target": 306.9,
+    "nutrition_vector": [
+      0.0588,
+      0.3013,
+      0.0,
+      0.0104,
+      0.0,
+      0.0,
+      0.0495,
+      0.006
+    ],
+    "calorie_budget": 578.0,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Oil, corn, industrial and retail, all purpose salad or cooking ka calorie kitna hoga agar 1 khauon?",
+    "food_name": "Oil, corn, industrial and retail, all purpose salad or cooking",
+    "intent": 0,
+    "intent_name": "calorie_query",
+    "regression_target": 900.0,
+    "nutrition_vector": [
+      0.36,
+      0.0,
+      0.0,
+      0.5,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "calorie_budget": 969.2,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Mujhe PCOS management ke liye diet plan chahiye.",
+    "food_name": "Veal, ground, raw",
+    "intent": 2,
+    "intent_name": "diet_advice",
+    "regression_target": 2800,
+    "nutrition_vector": [
+      0.0788,
+      0.1858,
+      0.0,
+      0.0653,
+      0.0,
+      0.0,
+      0.0515,
+      0.008
+    ],
+    "calorie_budget": 3008.3,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Aaj maine 100g Salad dressing, italian dressing, commercial, reduced fat khaya, kitna calorie hua?",
+    "food_name": "Salad dressing, italian dressing, commercial, reduced fat",
+    "intent": 0,
+    "intent_name": "calorie_query",
+    "regression_target": 102.0,
+    "nutrition_vector": [
+      0.0408,
+      0.0039,
+      0.025,
+      0.0334,
+      0.0,
+      0.0916,
+      0.4455,
+      0.01
+    ],
+    "calorie_budget": 177.3,
+    "source": "USDA_SR_Legacy",
+    "language": "english"
+  },
+  {
+    "text": "Can I eat Turkey, canned, meat only, with broth daily? How much?",
+    "food_name": "Turkey, canned, meat only, with broth",
+    "intent": 4,
+    "intent_name": "portion_control",
+    "regression_target": 200.0,
+    "nutrition_vector": [
+      0.0676,
+      0.2368,
+      0.0037,
+      0.0343,
+      0.0,
+      0.0,
+      0.259,
+      0.008
+    ],
+    "calorie_budget": null,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Light lunch suggestions for diabetes management.",
+    "food_name": "Beans, pinto, immature seeds, frozen, cooked, boiled, drained, without salt",
+    "intent": 1,
+    "intent_name": "meal_suggestion",
+    "regression_target": 247.5,
+    "nutrition_vector": [
+      0.0648,
+      0.0931,
+      0.0772,
+      0.0024,
+      0.108,
+      0.0,
+      0.0415,
+      0.0347
+    ],
+    "calorie_budget": 482.0,
+    "source": "USDA_SR_Legacy",
+    "language": "english"
+  },
+  {
+    "text": "How much Veal, variety meats and by-products, spleen, raw is too much?",
+    "food_name": "Veal, variety meats and by-products, spleen, raw",
+    "intent": 4,
+    "intent_name": "portion_control",
+    "regression_target": 100.0,
+    "nutrition_vector": [
+      0.0392,
+      0.183,
+      0.0,
+      0.011,
+      0.0,
+      0.0,
+      0.0485,
+      0.004
+    ],
+    "calorie_budget": 317.0,
+    "source": "USDA_SR_Legacy",
+    "language": "english"
+  },
+  {
+    "text": "Can I eat Beverages, Fruit flavored drink containing less than 3% fruit juice, with high vitamin C daily? How much?",
+    "food_name": "Beverages, Fruit flavored drink containing less than 3% fruit juice, with high vitamin C",
+    "intent": 4,
+    "intent_name": "portion_control",
+    "regression_target": 200.0,
+    "nutrition_vector": [
+      0.0108,
+      0.0,
+      0.0167,
+      0.0,
+      0.0,
+      0.05,
+      0.018,
+      0.002
+    ],
+    "calorie_budget": 447.7,
+    "source": "USDA_SR_Legacy",
+    "language": "english"
+  },
+  {
+    "text": "Foods to avoid for heart health.",
+    "food_name": "Soup, vegetable with beef broth, canned, condensed",
+    "intent": 2,
+    "intent_name": "diet_advice",
+    "regression_target": 1487.9,
+    "nutrition_vector": [
+      0.0264,
+      0.0242,
+      0.0267,
+      0.0078,
+      0.026,
+      0.0164,
+      0.2575,
+      0.0093
+    ],
+    "calorie_budget": 1745.9,
+    "source": "USDA_SR_Legacy",
+    "language": "english"
+  },
+  {
+    "text": "Healthy Indian dinner kya ho sakta hai?",
+    "food_name": "DIGIORNO Pizza, supreme topping, rising crust, frozen, baked",
+    "intent": 1,
+    "intent_name": "meal_suggestion",
+    "regression_target": 451.1,
+    "nutrition_vector": [
+      0.102,
+      0.1174,
+      0.0698,
+      0.0534,
+      0.046,
+      0.0471,
+      0.356,
+      0.0927
+    ],
+    "calorie_budget": null,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "50g KFC, Fried Chicken, EXTRA CRISPY, Wing, meat and skin with breading mein kitni calories hoti hain?",
+    "food_name": "KFC, Fried Chicken, EXTRA CRISPY, Wing, meat and skin with breading",
+    "intent": 0,
+    "intent_name": "calorie_query",
+    "regression_target": 337.0,
+    "nutrition_vector": [
+      0.1348,
+      0.208,
+      0.0291,
+      0.115,
+      0.0,
+      0.0,
+      0.3825,
+      0.0233
+    ],
+    "calorie_budget": 421.4,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "snack ke liye vegetarian options suggest karo.",
+    "food_name": "Bread, Italian",
+    "intent": 1,
+    "intent_name": "meal_suggestion",
+    "regression_target": 418.8,
+    "nutrition_vector": [
+      0.1036,
+      0.0949,
+      0.1203,
+      0.0137,
+      0.042,
+      0.0469,
+      0.309,
+      0.07
+    ],
+    "calorie_budget": 693.3,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Catsup, low sodium ki safe daily serving kitni hai?",
+    "food_name": "Catsup, low sodium",
+    "intent": 4,
+    "intent_name": "portion_control",
+    "regression_target": 50.0,
+    "nutrition_vector": [
+      0.0404,
+      0.0104,
+      0.0685,
+      0.0005,
+      0.006,
+      0.2127,
+      0.01,
+      0.01
+    ],
+    "calorie_budget": null,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "breakfast ke liye vegetarian options suggest karo.",
+    "food_name": "Noodles, egg, enriched, cooked",
+    "intent": 1,
+    "intent_name": "meal_suggestion",
+    "regression_target": 276.0,
+    "nutrition_vector": [
+      0.0552,
+      0.0454,
+      0.0629,
+      0.0103,
+      0.024,
+      0.004,
+      0.0025,
+      0.008
+    ],
+    "calorie_budget": 519.6,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Balsam-pear (bitter gourd), leafy tips, cooked, boiled, drained, without salt ka calorie kitna hoga agar half serving khauon?",
+    "food_name": "Balsam-pear (bitter gourd), leafy tips, cooked, boiled, drained, without salt",
+    "intent": 0,
+    "intent_name": "calorie_query",
+    "regression_target": 17.0,
+    "nutrition_vector": [
+      0.0136,
+      0.036,
+      0.0167,
+      0.001,
+      0.038,
+      0.0104,
+      0.0065,
+      0.028
+    ],
+    "calorie_budget": 196.0,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Portion guide for Chicken, broiler, rotisserie, BBQ, breast, meat and skin please.",
+    "food_name": "Chicken, broiler, rotisserie, BBQ, breast, meat and skin",
+    "intent": 4,
+    "intent_name": "portion_control",
+    "regression_target": 100.0,
+    "nutrition_vector": [
+      0.07,
+      0.2637,
+      0.0002,
+      0.0384,
+      0.0,
+      0.0009,
+      0.1645,
+      0.0107
+    ],
+    "calorie_budget": null,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Suggest a healthy dinner for PCOS management.",
+    "food_name": "Babyfood, cereal, rice, prepared with whole milk",
+    "intent": 1,
+    "intent_name": "meal_suggestion",
+    "regression_target": 155.5,
+    "nutrition_vector": [
+      0.034,
+      0.0345,
+      0.0258,
+      0.0169,
+      0.0,
+      0.0487,
+      0.021,
+      0.112
+    ],
+    "calorie_budget": null,
+    "source": "USDA_SR_Legacy",
+    "language": "english"
+  },
+  {
+    "text": "Mujhe batao 2 rotis Chicken, roasting, meat and skin and giblets and neck, cooked, roasted ka calorie value kya hai.",
+    "food_name": "Chicken, roasting, meat and skin and giblets and neck, cooked, roasted",
+    "intent": 0,
+    "intent_name": "calorie_query",
+    "regression_target": 440.0,
+    "nutrition_vector": [
+      0.088,
+      0.2396,
+      0.0001,
+      0.0654,
+      0.0,
+      0.0,
+      0.0355,
+      0.0087
+    ],
+    "calorie_budget": 567.6,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Babyfood, cereal, with egg yolks, junior mein iron content batao.",
+    "food_name": "Babyfood, cereal, with egg yolks, junior",
+    "intent": 3,
+    "intent_name": "nutrition_info",
+    "regression_target": 1.9,
+    "nutrition_vector": [
+      0.0208,
+      0.019,
+      0.0177,
+      0.009,
+      0.018,
+      0.0,
+      0.0165,
+      0.016
+    ],
+    "calorie_budget": null,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "High protein pre-workout meal ideas batao.",
+    "food_name": "Fish, turbot, european, cooked, dry heat",
+    "intent": 1,
+    "intent_name": "meal_suggestion",
+    "regression_target": 320.4,
+    "nutrition_vector": [
+      0.0488,
+      0.2058,
+      0.0,
+      0.0189,
+      0.0,
+      0.0,
+      0.096,
+      0.0153
+    ],
+    "calorie_budget": 460.2,
+    "source": "USDA_SR_Legacy",
+    "language": "english"
+  },
+  {
+    "text": "How many calories in half serving Beverages, shake, fast food, strawberry?",
+    "food_name": "Beverages, shake, fast food, strawberry",
+    "intent": 0,
+    "intent_name": "calorie_query",
+    "regression_target": 56.5,
+    "nutrition_vector": [
+      0.0452,
+      0.034,
+      0.0472,
+      0.014,
+      0.008,
+      0.0,
+      0.0415,
+      0.0753
+    ],
+    "calorie_budget": 283.9,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "diabetes management ke liye meal planning tips batao.",
+    "food_name": "PIZZA HUT 14\" Sausage Pizza, Pan Crust",
+    "intent": 2,
+    "intent_name": "diet_advice",
+    "regression_target": 2800,
+    "nutrition_vector": [
+      0.1148,
+      0.1108,
+      0.0739,
+      0.0692,
+      0.04,
+      0.0182,
+      0.298,
+      0.088
+    ],
+    "calorie_budget": null,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Aaj maine 1 bowl Beverages, V8 SPLASH Smoothies, Strawberry Banana khaya, kitna calorie hua?",
+    "food_name": "Beverages, V8 SPLASH Smoothies, Strawberry Banana",
+    "intent": 0,
+    "intent_name": "calorie_query",
+    "regression_target": 37.0,
+    "nutrition_vector": [
+      0.0148,
+      0.0122,
+      0.0204,
+      0.0,
+      0.0,
+      0.0735,
+      0.0145,
+      0.0273
+    ],
+    "calorie_budget": null,
+    "source": "USDA_SR_Legacy",
+    "language": "english"
+  },
+  {
+    "text": "What should I eat for post-workout meal to support general fitness?",
+    "food_name": "Pork, fresh, shoulder, arm picnic, separable lean only, cooked, braised",
+    "intent": 1,
+    "intent_name": "meal_suggestion",
+    "regression_target": 177.0,
+    "nutrition_vector": [
+      0.0776,
+      0.2676,
+      0.0,
+      0.0443,
+      0.0,
+      0.0,
+      0.05,
+      0.0107
+    ],
+    "calorie_budget": null,
+    "source": "USDA_SR_Legacy",
+    "language": "english"
+  },
+  {
+    "text": "Beef, short loin, top loin, steak, separable lean and fat, trimmed to 1/8\" fat, choice, cooked, grilled ke kya health benefits hain?",
+    "food_name": "Beef, short loin, top loin, steak, separable lean and fat, trimmed to 1/8\" fat, choice, cooked, grilled",
+    "intent": 3,
+    "intent_name": "nutrition_info",
+    "regression_target": 26.2,
+    "nutrition_vector": [
+      0.1112,
+      0.2616,
+      0.0,
+      0.0922,
+      0.0,
+      0.0,
+      0.026,
+      0.0113
+    ],
+    "calorie_budget": null,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "diabetes management ke liye konsa food avoid karna chahiye?",
+    "food_name": "Peppers, jalapeno, raw",
+    "intent": 2,
+    "intent_name": "diet_advice",
+    "regression_target": 837.1,
+    "nutrition_vector": [
+      0.0116,
+      0.0091,
+      0.0163,
+      0.0019,
+      0.056,
+      0.0412,
+      0.0015,
+      0.008
+    ],
+    "calorie_budget": 926.1,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Best superfoods for general fitness in Indian context.",
+    "food_name": "Beef, chuck for stew, separable lean and fat, choice, cooked, braised",
+    "intent": 2,
+    "intent_name": "diet_advice",
+    "regression_target": 2751.5,
+    "nutrition_vector": [
+      0.0776,
+      0.3249,
+      0.0,
+      0.0357,
+      0.0,
+      0.0,
+      0.0325,
+      0.0113
+    ],
+    "calorie_budget": 2975.3,
+    "source": "USDA_SR_Legacy",
+    "language": "english"
+  },
+  {
+    "text": "Soup, turkey, chunky, canned, ready-to-serve kitni matra mein lena sahi hai?",
+    "food_name": "Soup, turkey, chunky, canned, ready-to-serve",
+    "intent": 4,
+    "intent_name": "portion_control",
+    "regression_target": 100.0,
+    "nutrition_vector": [
+      0.0228,
+      0.0433,
+      0.0149,
+      0.0094,
+      0.0,
+      0.0,
+      0.1955,
+      0.014
+    ],
+    "calorie_budget": null,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Spanish rice mix, dry mix, unprepared ka healthy portion size kya hota hai?",
+    "food_name": "Spanish rice mix, dry mix, unprepared",
+    "intent": 4,
+    "intent_name": "portion_control",
+    "regression_target": 200.0,
+    "nutrition_vector": [
+      0.1452,
+      0.1062,
+      0.1911,
+      0.0081,
+      0.062,
+      0.0383,
+      0.5425,
+      0.0193
+    ],
+    "calorie_budget": null,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "dinner ke liye low calorie Indian food kya hai?",
+    "food_name": "Succotash, (corn and limas), canned, with cream style corn",
+    "intent": 1,
+    "intent_name": "meal_suggestion",
+    "regression_target": 131.4,
+    "nutrition_vector": [
+      0.0308,
+      0.0264,
+      0.044,
+      0.0027,
+      0.06,
+      0.0,
+      0.1225,
+      0.0073
+    ],
+    "calorie_budget": 251.6,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Daily limit of SUBWAY, oven roasted chicken sub on white bread with lettuce and tomato kya hona chahiye?",
+    "food_name": "SUBWAY, oven roasted chicken sub on white bread with lettuce and tomato",
+    "intent": 4,
+    "intent_name": "portion_control",
+    "regression_target": 100.0,
+    "nutrition_vector": [
+      0.0628,
+      0.1084,
+      0.0534,
+      0.0158,
+      0.024,
+      0.0299,
+      0.134,
+      0.1027
+    ],
+    "calorie_budget": null,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Mujhe batao half serving LITTLE CAESARS 14\" Original Round Cheese Pizza, Regular Crust ka calorie value kya hai.",
+    "food_name": "LITTLE CAESARS 14\" Original Round Cheese Pizza, Regular Crust",
+    "intent": 0,
+    "intent_name": "calorie_query",
+    "regression_target": 132.5,
+    "nutrition_vector": [
+      0.106,
+      0.1339,
+      0.0788,
+      0.0477,
+      0.034,
+      0.0402,
+      0.227,
+      0.1553
+    ],
+    "calorie_budget": 299.8,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "breakfast ke liye vegetarian options suggest karo.",
+    "food_name": "Ostrich, tip trimmed, raw",
+    "intent": 1,
+    "intent_name": "meal_suggestion",
+    "regression_target": 309.3,
+    "nutrition_vector": [
+      0.0456,
+      0.2185,
+      0.0,
+      0.0115,
+      0.0,
+      0.0,
+      0.0335,
+      0.0033
+    ],
+    "calorie_budget": 371.5,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Macaroni, vegetable, enriched, dry mein kitna protein hota hai?",
+    "food_name": "Macaroni, vegetable, enriched, dry",
+    "intent": 3,
+    "intent_name": "nutrition_info",
+    "regression_target": 13.1,
+    "nutrition_vector": [
+      0.1468,
+      0.1314,
+      0.1872,
+      0.0052,
+      0.086,
+      0.0,
+      0.0215,
+      0.0227
+    ],
+    "calorie_budget": 99.6,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Aaj maine half cup Beef, round, top round, steak, separable lean and fat, trimmed to 1/8\" fat, prime, cooked, broiled khaya, kitna calorie hua?",
+    "food_name": "Beef, round, top round, steak, separable lean and fat, trimmed to 1/8\" fat, prime, cooked, broiled",
+    "intent": 0,
+    "intent_name": "calorie_query",
+    "regression_target": 112.5,
+    "nutrition_vector": [
+      0.09,
+      0.3127,
+      0.0,
+      0.0505,
+      0.0,
+      0.0,
+      0.0305,
+      0.004
+    ],
+    "calorie_budget": 238.2,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Candies, honey-combed, with peanut butter mein kitna protein hota hai?",
+    "food_name": "Candies, honey-combed, with peanut butter",
+    "intent": 3,
+    "intent_name": "nutrition_info",
+    "regression_target": 8.7,
+    "nutrition_vector": [
+      0.1892,
+      0.0872,
+      0.1685,
+      0.1009,
+      0.038,
+      0.6268,
+      0.087,
+      0.014
+    ],
+    "calorie_budget": null,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Best post-workout meal options for muscle gain diet.",
+    "food_name": "Fish, salmon, chum, cooked, dry heat",
+    "intent": 1,
+    "intent_name": "meal_suggestion",
+    "regression_target": 498.5,
+    "nutrition_vector": [
+      0.0616,
+      0.2582,
+      0.0,
+      0.0242,
+      0.0,
+      0.0,
+      0.032,
+      0.0093
+    ],
+    "calorie_budget": null,
+    "source": "USDA_SR_Legacy",
+    "language": "english"
+  },
+  {
+    "text": "Diet tips for muscle gain in India.",
+    "food_name": "Wheat flour, white (industrial), 15% protein, bleached, enriched",
+    "intent": 2,
+    "intent_name": "diet_advice",
+    "regression_target": 2800,
+    "nutrition_vector": [
+      0.1448,
+      0.1533,
+      0.1747,
+      0.007,
+      0.048,
+      0.0092,
+      0.001,
+      0.0113
+    ],
+    "calorie_budget": 2947.1,
+    "source": "USDA_SR_Legacy",
+    "language": "english"
+  },
+  {
+    "text": "Portion guide for Cranberry juice cocktail, bottled, low calorie, with calcium, saccharin and corn sweetener please.",
+    "food_name": "Cranberry juice cocktail, bottled, low calorie, with calcium, saccharin and corn sweetener",
+    "intent": 4,
+    "intent_name": "portion_control",
+    "regression_target": 200.0,
+    "nutrition_vector": [
+      0.0076,
+      0.0002,
+      0.0115,
+      0.0001,
+      0.0,
+      0.0459,
+      0.0015,
+      0.006
+    ],
+    "calorie_budget": 360.5,
+    "source": "USDA_SR_Legacy",
+    "language": "english"
+  },
+  {
+    "text": "What is the calorie content of 150g Beef, composite of trimmed retail cuts, separable lean only, trimmed to 0\" fat, all grades, raw?",
+    "food_name": "Beef, composite of trimmed retail cuts, separable lean only, trimmed to 0\" fat, all grades, raw",
+    "intent": 0,
+    "intent_name": "calorie_query",
+    "regression_target": 207.0,
+    "nutrition_vector": [
+      0.0552,
+      0.2215,
+      0.0,
+      0.0277,
+      0.0,
+      0.0,
+      0.03,
+      0.0087
+    ],
+    "calorie_budget": null,
+    "source": "USDA_SR_Legacy",
+    "language": "english"
+  },
+  {
+    "text": "Strudel, apple mein carbohydrates kitne hote hain?",
+    "food_name": "Strudel, apple",
+    "intent": 3,
+    "intent_name": "nutrition_info",
+    "regression_target": 3.3,
+    "nutrition_vector": [
+      0.1096,
+      0.033,
+      0.1028,
+      0.056,
+      0.044,
+      0.2575,
+      0.0675,
+      0.01
+    ],
+    "calorie_budget": 245.1,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Cornmeal, yellow, self-rising, degermed, enriched ka fat content kya hai?",
+    "food_name": "Cornmeal, yellow, self-rising, degermed, enriched",
+    "intent": 3,
+    "intent_name": "nutrition_info",
+    "regression_target": 8.4,
+    "nutrition_vector": [
+      0.142,
+      0.0841,
+      0.187,
+      0.0086,
+      0.142,
+      0.0,
+      0.674,
+      0.2333
+    ],
+    "calorie_budget": 158.8,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Popcorn, microwave, low fat and sodium ka fat content kya hai?",
+    "food_name": "Popcorn, microwave, low fat and sodium",
+    "intent": 3,
+    "intent_name": "nutrition_info",
+    "regression_target": 12.6,
+    "nutrition_vector": [
+      0.1716,
+      0.126,
+      0.1835,
+      0.0475,
+      0.284,
+      0.0054,
+      0.245,
+      0.0073
+    ],
+    "calorie_budget": 270.5,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Ek din mein kitna Pineapple, raw, all varieties khana chahiye?",
+    "food_name": "Pineapple, raw, all varieties",
+    "intent": 4,
+    "intent_name": "portion_control",
+    "regression_target": 100.0,
+    "nutrition_vector": [
+      0.02,
+      0.0054,
+      0.0328,
+      0.0006,
+      0.028,
+      0.0985,
+      0.0005,
+      0.0087
+    ],
+    "calorie_budget": null,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "What should I eat for lunch to support weight loss?",
+    "food_name": "Infant formula, MEAD JOHNSON, ENFAMIL, Premature, 24 calories ready-to-feed Low iron",
+    "intent": 1,
+    "intent_name": "meal_suggestion",
+    "regression_target": 293.3,
+    "nutrition_vector": [
+      0.0268,
+      0.0197,
+      0.018,
+      0.0167,
+      0.0,
+      0.0721,
+      0.019,
+      0.072
+    ],
+    "calorie_budget": 482.3,
+    "source": "USDA_SR_Legacy",
+    "language": "english"
+  },
+  {
+    "text": "Recommended Milk, buttermilk, fluid, cultured, lowfat intake per day batao.",
+    "food_name": "Milk, buttermilk, fluid, cultured, lowfat",
+    "intent": 4,
+    "intent_name": "portion_control",
+    "regression_target": 100.0,
+    "nutrition_vector": [
+      0.016,
+      0.0331,
+      0.012,
+      0.0054,
+      0.0,
+      0.0536,
+      0.074,
+      0.0773
+    ],
+    "calorie_budget": 270.3,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Fish, trout, mixed species, cooked, dry heat high protein hai ya nahi?",
+    "food_name": "Fish, trout, mixed species, cooked, dry heat",
+    "intent": 3,
+    "intent_name": "nutrition_info",
+    "regression_target": 26.6,
+    "nutrition_vector": [
+      0.076,
+      0.2663,
+      0.0,
+      0.0424,
+      0.0,
+      0.0,
+      0.0335,
+      0.0367
+    ],
+    "calorie_budget": 248.7,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Indian diet plan for weight loss — kya khauon kya na khauon?",
+    "food_name": "Gulab Jamun",
+    "intent": 2,
+    "intent_name": "diet_advice",
+    "regression_target": 2800,
+    "nutrition_vector": [
+      0.154,
+      0.065,
+      0.1375,
+      0.0825,
+      0.01,
+      0.4,
+      0.04,
+      0.0533
+    ],
+    "calorie_budget": null,
+    "source": "ICMR_NIN_2017",
+    "language": "hinglish"
+  },
+  {
+    "text": "Foods to avoid for muscle gain.",
+    "food_name": "OLIVE GARDEN, spaghetti with meat sauce",
+    "intent": 2,
+    "intent_name": "diet_advice",
+    "regression_target": 2007.6,
+    "nutrition_vector": [
+      0.0484,
+      0.058,
+      0.043,
+      0.0164,
+      0.034,
+      0.0167,
+      0.1045,
+      0.01
+    ],
+    "calorie_budget": 2240.3,
+    "source": "USDA_SR_Legacy",
+    "language": "english"
+  },
+  {
+    "text": "Chicken, stewing, meat only, cooked, stewed mein carbohydrates kitne hote hain?",
+    "food_name": "Chicken, stewing, meat only, cooked, stewed",
+    "intent": 3,
+    "intent_name": "nutrition_info",
+    "regression_target": 30.4,
+    "nutrition_vector": [
+      0.0948,
+      0.3042,
+      0.0,
+      0.0595,
+      0.0,
+      0.0,
+      0.039,
+      0.0087
+    ],
+    "calorie_budget": 323.1,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Nutritional profile of Celery, raw batao.",
+    "food_name": "Celery, raw",
+    "intent": 3,
+    "intent_name": "nutrition_info",
+    "regression_target": 0.7,
+    "nutrition_vector": [
+      0.0056,
+      0.0069,
+      0.0074,
+      0.0009,
+      0.032,
+      0.0134,
+      0.04,
+      0.0267
+    ],
+    "calorie_budget": 291.8,
+    "source": "USDA_SR_Legacy",
+    "language": "english"
+  },
+  {
+    "text": "Indian diet plan for thyroid health — kya khauon kya na khauon?",
+    "food_name": "Nectarines, raw",
+    "intent": 2,
+    "intent_name": "diet_advice",
+    "regression_target": 967.1,
+    "nutrition_vector": [
+      0.0176,
+      0.0106,
+      0.0264,
+      0.0016,
+      0.034,
+      0.0789,
+      0.0,
+      0.004
+    ],
+    "calorie_budget": 1096.9,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Nutritional profile of Babyfood, cereal, rice with pears and apple, dry, instant fortified batao.",
+    "food_name": "Babyfood, cereal, rice with pears and apple, dry, instant fortified",
+    "intent": 3,
+    "intent_name": "nutrition_info",
+    "regression_target": 6.6,
+    "nutrition_vector": [
+      0.1556,
+      0.066,
+      0.2213,
+      0.0045,
+      0.052,
+      0.0135,
+      0.001,
+      0.0253
+    ],
+    "calorie_budget": 251.8,
+    "source": "USDA_SR_Legacy",
+    "language": "english"
+  },
+  {
+    "text": "How to manage diet for muscle gain?",
+    "food_name": "Chicken, stewing, giblets, cooked, simmered",
+    "intent": 2,
+    "intent_name": "diet_advice",
+    "regression_target": 2496.3,
+    "nutrition_vector": [
+      0.0776,
+      0.2573,
+      0.0003,
+      0.0465,
+      0.0,
+      0.0,
+      0.028,
+      0.0087
+    ],
+    "calorie_budget": 2637.6,
+    "source": "USDA_SR_Legacy",
+    "language": "english"
+  },
+  {
+    "text": "How to manage diet for diabetes management?",
+    "food_name": "Bread, white, prepared from recipe, made with nonfat dry milk",
+    "intent": 2,
+    "intent_name": "diet_advice",
+    "regression_target": 2800,
+    "nutrition_vector": [
+      0.1096,
+      0.077,
+      0.134,
+      0.013,
+      0.04,
+      0.0,
+      0.168,
+      0.0213
+    ],
+    "calorie_budget": 2949.0,
+    "source": "USDA_SR_Legacy",
+    "language": "english"
+  },
+  {
+    "text": "Kraft, Stove Top Stuffing Mix Chicken Flavor mein kitna protein hota hai?",
+    "food_name": "Kraft, Stove Top Stuffing Mix Chicken Flavor",
+    "intent": 3,
+    "intent_name": "nutrition_info",
+    "regression_target": 12.6,
+    "nutrition_vector": [
+      0.1524,
+      0.126,
+      0.1827,
+      0.0205,
+      0.05,
+      0.101,
+      0.766,
+      0.042
+    ],
+    "calorie_budget": 258.2,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Beef, Australian, imported, Wagyu, loin, top loin steak/roast, boneless, separable lean and fat, Aust. marble score 4/5, raw ka healthy portion size kya hota hai?",
+    "food_name": "Beef, Australian, imported, Wagyu, loin, top loin steak/roast, boneless, separable lean and fat, Aust. marble score 4/5, raw",
+    "intent": 4,
+    "intent_name": "portion_control",
+    "regression_target": 100.0,
+    "nutrition_vector": [
+      0.1156,
+      0.1767,
+      0.0003,
+      0.121,
+      0.0,
+      0.0,
+      0.028,
+      0.0027
+    ],
+    "calorie_budget": null,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Tell me calories for 100g Seeds, sunflower seed kernels, dried.",
+    "food_name": "Seeds, sunflower seed kernels, dried",
+    "intent": 0,
+    "intent_name": "calorie_query",
+    "regression_target": 584.0,
+    "nutrition_vector": [
+      0.2336,
+      0.2078,
+      0.05,
+      0.2573,
+      0.172,
+      0.0262,
+      0.0045,
+      0.052
+    ],
+    "calorie_budget": null,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "muscle gain ke liye protein intake kitna hona chahiye?",
+    "food_name": "Salad dressing, russian dressing",
+    "intent": 2,
+    "intent_name": "diet_advice",
+    "regression_target": 2800,
+    "nutrition_vector": [
+      0.142,
+      0.0069,
+      0.0798,
+      0.1309,
+      0.014,
+      0.1768,
+      0.5665,
+      0.0087
+    ],
+    "calorie_budget": null,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Tell me calories for 2 Soup, wonton, Chinese restaurant.",
+    "food_name": "Soup, wonton, Chinese restaurant",
+    "intent": 0,
+    "intent_name": "calorie_query",
+    "regression_target": 64.0,
+    "nutrition_vector": [
+      0.0128,
+      0.0208,
+      0.0131,
+      0.0013,
+      0.004,
+      0.0034,
+      0.203,
+      0.0033
+    ],
+    "calorie_budget": null,
+    "source": "USDA_SR_Legacy",
+    "language": "english"
+  },
+  {
+    "text": "High protein breakfast ideas batao.",
+    "food_name": "Babyfood, cookies, arrowroot",
+    "intent": 1,
+    "intent_name": "meal_suggestion",
+    "regression_target": 512.5,
+    "nutrition_vector": [
+      0.1696,
+      0.076,
+      0.1885,
+      0.05,
+      0.004,
+      0.0,
+      0.1595,
+      0.0213
+    ],
+    "calorie_budget": null,
+    "source": "USDA_SR_Legacy",
+    "language": "english"
+  },
+  {
+    "text": "PIZZA HUT 14\" Cheese Pizza, THIN 'N CRISPY Crust ka 50g serving mein calorie count kya hai?",
+    "food_name": "PIZZA HUT 14\" Cheese Pizza, THIN 'N CRISPY Crust",
+    "intent": 0,
+    "intent_name": "calorie_query",
+    "regression_target": 306.0,
+    "nutrition_vector": [
+      0.1224,
+      0.1337,
+      0.0856,
+      0.064,
+      0.048,
+      0.0313,
+      0.4285,
+      0.1893
+    ],
+    "calorie_budget": null,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Beef, plate steak, boneless, inside skirt, separable lean only, trimmed to 0\" fat, choice, raw ka calorie kitna hoga agar half serving khauon?",
+    "food_name": "Beef, plate steak, boneless, inside skirt, separable lean only, trimmed to 0\" fat, choice, raw",
+    "intent": 0,
+    "intent_name": "calorie_query",
+    "regression_target": 85.5,
+    "nutrition_vector": [
+      0.0684,
+      0.2089,
+      0.0,
+      0.0488,
+      0.0,
+      0.0,
+      0.0335,
+      0.004
+    ],
+    "calorie_budget": 278.1,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "What is the nutritional value of Chicken breast, oven-roasted, fat-free, sliced?",
+    "food_name": "Chicken breast, oven-roasted, fat-free, sliced",
+    "intent": 3,
+    "intent_name": "nutrition_info",
+    "regression_target": 16.8,
+    "nutrition_vector": [
+      0.0316,
+      0.1679,
+      0.0054,
+      0.002,
+      0.0,
+      0.001,
+      0.5435,
+      0.004
+    ],
+    "calorie_budget": null,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Light post-workout meal suggestions for general fitness.",
+    "food_name": "Mushrooms, white, microwaved",
+    "intent": 1,
+    "intent_name": "meal_suggestion",
+    "regression_target": 217.4,
+    "nutrition_vector": [
+      0.014,
+      0.0391,
+      0.0151,
+      0.0023,
+      0.05,
+      0.0,
+      0.0085,
+      0.004
+    ],
+    "calorie_budget": null,
+    "source": "USDA_SR_Legacy",
+    "language": "english"
+  },
+  {
+    "text": "How much Lamb, foreshank, separable lean and fat, trimmed to 1/8\" fat, choice, raw is too much?",
+    "food_name": "Lamb, foreshank, separable lean and fat, trimmed to 1/8\" fat, choice, raw",
+    "intent": 4,
+    "intent_name": "portion_control",
+    "regression_target": 100.0,
+    "nutrition_vector": [
+      0.0804,
+      0.1891,
+      0.0,
+      0.0669,
+      0.0,
+      0.0,
+      0.036,
+      0.0073
+    ],
+    "calorie_budget": 155.2,
+    "source": "USDA_SR_Legacy",
+    "language": "english"
+  },
+  {
+    "text": "Cheese, parmesan, low sodium ka fat content kya hai?",
+    "food_name": "Cheese, parmesan, low sodium",
+    "intent": 3,
+    "intent_name": "nutrition_info",
+    "regression_target": 41.6,
+    "nutrition_vector": [
+      0.1804,
+      0.416,
+      0.0093,
+      0.1499,
+      0.0,
+      0.0085,
+      0.0315,
+      0.5333
+    ],
+    "calorie_budget": 309.7,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Nutritional profile of Veal, foreshank, osso buco, separable lean only, cooked, braised batao.",
+    "food_name": "Veal, foreshank, osso buco, separable lean only, cooked, braised",
+    "intent": 3,
+    "intent_name": "nutrition_info",
+    "regression_target": 29.1,
+    "nutrition_vector": [
+      0.0628,
+      0.2912,
+      0.0,
+      0.0226,
+      0.0,
+      0.0,
+      0.045,
+      0.014
+    ],
+    "calorie_budget": null,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "PCOS management achieve karne ke liye kya khana chahiye?",
+    "food_name": "Beef, top sirloin, steak, separable lean only, trimmed to 0\" fat, choice, cooked, broiled",
+    "intent": 2,
+    "intent_name": "diet_advice",
+    "regression_target": 2708.8,
+    "nutrition_vector": [
+      0.0752,
+      0.3029,
+      0.0,
+      0.0328,
+      0.0,
+      0.0,
+      0.0315,
+      0.0113
+    ],
+    "calorie_budget": 2908.8,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "pre-workout meal ke liye vegetarian options suggest karo.",
+    "food_name": "Cereals, corn grits, white, regular and quick, enriched, cooked with water, with salt",
+    "intent": 1,
+    "intent_name": "meal_suggestion",
+    "regression_target": 337.6,
+    "nutrition_vector": [
+      0.0284,
+      0.0171,
+      0.0369,
+      0.0023,
+      0.016,
+      0.0012,
+      0.1115,
+      0.0007
+    ],
+    "calorie_budget": 526.0,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Beans, snap, yellow, frozen, cooked, boiled, drained, with salt ka calorie kitna hoga agar 2 rotis khauon?",
+    "food_name": "Beans, snap, yellow, frozen, cooked, boiled, drained, with salt",
+    "intent": 0,
+    "intent_name": "calorie_query",
+    "regression_target": 56.0,
+    "nutrition_vector": [
+      0.0112,
+      0.0149,
+      0.0161,
+      0.0009,
+      0.06,
+      0.0188,
+      0.1225,
+      0.0327
+    ],
+    "calorie_budget": 249.8,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "How much Pork, cured, ham, low sodium, lean and fat, cooked is too much?",
+    "food_name": "Pork, cured, ham, low sodium, lean and fat, cooked",
+    "intent": 4,
+    "intent_name": "portion_control",
+    "regression_target": 50.0,
+    "nutrition_vector": [
+      0.0688,
+      0.223,
+      0.0008,
+      0.0415,
+      0.0,
+      0.0,
+      0.4845,
+      0.0053
+    ],
+    "calorie_budget": null,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Portion guide for Sweet Potatoes, french fried, frozen as packaged, salt added in processing please.",
+    "food_name": "Sweet Potatoes, french fried, frozen as packaged, salt added in processing",
+    "intent": 4,
+    "intent_name": "portion_control",
+    "regression_target": 100.0,
+    "nutrition_vector": [
+      0.0728,
+      0.0216,
+      0.089,
+      0.0446,
+      0.114,
+      0.129,
+      0.073,
+      0.0347
+    ],
+    "calorie_budget": 273.7,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Ek din mein kitna Tennis Bread, plain (Apache) khana chahiye?",
+    "food_name": "Tennis Bread, plain (Apache)",
+    "intent": 4,
+    "intent_name": "portion_control",
+    "regression_target": 200.0,
+    "nutrition_vector": [
+      0.1032,
+      0.09,
+      0.1331,
+      0.0053,
+      0.052,
+      0.0301,
+      0.405,
+      0.0447
+    ],
+    "calorie_budget": 460.2,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Can I eat Infant formula, MEAD JOHNSON, Enfamil for Supplementing, powder, with ARA and DHA, not reconstituted daily? How much?",
+    "food_name": "Infant formula, MEAD JOHNSON, Enfamil for Supplementing, powder, with ARA and DHA, not reconstituted",
+    "intent": 4,
+    "intent_name": "portion_control",
+    "regression_target": 200.0,
+    "nutrition_vector": [
+      0.2052,
+      0.117,
+      0.1395,
+      0.135,
+      0.0,
+      0.118,
+      0.092,
+      0.28
+    ],
+    "calorie_budget": 379.9,
+    "source": "USDA_SR_Legacy",
+    "language": "english"
+  },
+  {
+    "text": "Indian diet plan for general fitness — kya khauon kya na khauon?",
+    "food_name": "Lamb, shoulder, whole (arm and blade), separable lean and fat, trimmed to 1/4\" fat, choice, cooked, broiled",
+    "intent": 2,
+    "intent_name": "diet_advice",
+    "regression_target": 2800,
+    "nutrition_vector": [
+      0.1112,
+      0.2442,
+      0.0,
+      0.0963,
+      0.0,
+      0.0,
+      0.039,
+      0.014
+    ],
+    "calorie_budget": 2876.0,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Ek din mein kitna Beef, loin, tenderloin roast, boneless, separable lean only, trimmed to 0\" fat, select, raw khana chahiye?",
+    "food_name": "Beef, loin, tenderloin roast, boneless, separable lean only, trimmed to 0\" fat, select, raw",
+    "intent": 4,
+    "intent_name": "portion_control",
+    "regression_target": 100.0,
+    "nutrition_vector": [
+      0.054,
+      0.2216,
+      0.0,
+      0.0255,
+      0.0,
+      0.0,
+      0.021,
+      0.0093
+    ],
+    "calorie_budget": 278.3,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "weight loss ke liye meal planning tips batao.",
+    "food_name": "Beef, chuck, short ribs, boneless, separable lean and fat, trimmed to 0\" fat, choice, raw",
+    "intent": 2,
+    "intent_name": "diet_advice",
+    "regression_target": 2800,
+    "nutrition_vector": [
+      0.096,
+      0.1722,
+      0.0,
+      0.0952,
+      0.0,
+      0.0,
+      0.0375,
+      0.0073
+    ],
+    "calorie_budget": 2926.3,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Beverages, carbonated, grape soda ka fat content kya hai?",
+    "food_name": "Beverages, carbonated, grape soda",
+    "intent": 3,
+    "intent_name": "nutrition_info",
+    "regression_target": 0.0,
+    "nutrition_vector": [
+      0.0172,
+      0.0,
+      0.028,
+      0.0,
+      0.0,
+      0.0,
+      0.0075,
+      0.002
+    ],
+    "calorie_budget": 123.9,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Aaj maine 2 Plantains, yellow, raw khaya, kitna calorie hua?",
+    "food_name": "Plantains, yellow, raw",
+    "intent": 0,
+    "intent_name": "calorie_query",
+    "regression_target": 244.0,
+    "nutrition_vector": [
+      0.0488,
+      0.013,
+      0.0797,
+      0.0017,
+      0.034,
+      0.1751,
+      0.002,
+      0.002
+    ],
+    "calorie_budget": 342.5,
+    "source": "USDA_SR_Legacy",
+    "language": "english"
+  },
+  {
+    "text": "Suggest a healthy post-workout meal for general fitness.",
+    "food_name": "Sour dressing, non-butterfat, cultured, filled cream-type",
+    "intent": 1,
+    "intent_name": "meal_suggestion",
+    "regression_target": 527.4,
+    "nutrition_vector": [
+      0.0712,
+      0.0325,
+      0.0117,
+      0.0829,
+      0.0,
+      0.0468,
+      0.024,
+      0.0753
+    ],
+    "calorie_budget": null,
+    "source": "USDA_SR_Legacy",
+    "language": "english"
+  },
+  {
+    "text": "heart health ke liye konsa food avoid karna chahiye?",
+    "food_name": "Mung beans, mature seeds, cooked, boiled, without salt",
+    "intent": 2,
+    "intent_name": "diet_advice",
+    "regression_target": 1666.5,
+    "nutrition_vector": [
+      0.042,
+      0.0702,
+      0.0479,
+      0.0019,
+      0.152,
+      0.02,
+      0.001,
+      0.018
+    ],
+    "calorie_budget": 1739.5,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Daily limit of Beef, top sirloin, steak, separable lean and fat, trimmed to 0\" fat, select, cooked, broiled kya hona chahiye?",
+    "food_name": "Beef, top sirloin, steak, separable lean and fat, trimmed to 0\" fat, select, cooked, broiled",
+    "intent": 4,
+    "intent_name": "portion_control",
+    "regression_target": 200.0,
+    "nutrition_vector": [
+      0.0824,
+      0.2965,
+      0.0,
+      0.044,
+      0.0,
+      0.0,
+      0.0315,
+      0.016
+    ],
+    "calorie_budget": 484.4,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Fiber content of Pork, cured, ham, separable fat, boneless, heated kya hai?",
+    "food_name": "Pork, cured, ham, separable fat, boneless, heated",
+    "intent": 3,
+    "intent_name": "nutrition_info",
+    "regression_target": 8.8,
+    "nutrition_vector": [
+      0.2028,
+      0.0877,
+      0.005,
+      0.2579,
+      0.0,
+      0.0028,
+      0.3385,
+      0.004
+    ],
+    "calorie_budget": null,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Portion guide for Beef, short loin, t-bone steak, separable lean and fat, trimmed to 0\" fat, USDA select, cooked, broiled please.",
+    "food_name": "Beef, short loin, t-bone steak, separable lean and fat, trimmed to 0\" fat, USDA select, cooked, broiled",
+    "intent": 4,
+    "intent_name": "portion_control",
+    "regression_target": 100.0,
+    "nutrition_vector": [
+      0.092,
+      0.2438,
+      0.0,
+      0.07,
+      0.0,
+      0.0,
+      0.034,
+      0.0033
+    ],
+    "calorie_budget": 291.5,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Tell me calories for do Spaghetti, spinach, dry.",
+    "food_name": "Spaghetti, spinach, dry",
+    "intent": 0,
+    "intent_name": "calorie_query",
+    "regression_target": 744.0,
+    "nutrition_vector": [
+      0.1488,
+      0.1335,
+      0.187,
+      0.0079,
+      0.212,
+      0.0272,
+      0.018,
+      0.0387
+    ],
+    "calorie_budget": 871.4,
+    "source": "USDA_SR_Legacy",
+    "language": "english"
+  },
+  {
+    "text": "Aaj maine 50g Bologna, beef khaya, kitna calorie hua?",
+    "food_name": "Bologna, beef",
+    "intent": 0,
+    "intent_name": "calorie_query",
+    "regression_target": 299.0,
+    "nutrition_vector": [
+      0.1196,
+      0.1091,
+      0.0107,
+      0.1306,
+      0.0,
+      0.0205,
+      0.5065,
+      0.014
+    ],
+    "calorie_budget": null,
+    "source": "USDA_SR_Legacy",
+    "language": "english"
+  },
+  {
+    "text": "Aaj maine half serving Toaster pastries, fruit (includes apple, blueberry, cherry, strawberry) khaya, kitna calorie hua?",
+    "food_name": "Toaster pastries, fruit (includes apple, blueberry, cherry, strawberry)",
+    "intent": 0,
+    "intent_name": "calorie_query",
+    "regression_target": 194.0,
+    "nutrition_vector": [
+      0.1552,
+      0.042,
+      0.1758,
+      0.0497,
+      0.02,
+      0.2613,
+      0.167,
+      0.0107
+    ],
+    "calorie_budget": 254.9,
+    "source": "USDA_SR_Legacy",
+    "language": "english"
+  },
+  {
+    "text": "Can I eat Pork, cured, ham with natural juices, shank, bone-in, separable lean and fat, unheated daily? How much?",
+    "food_name": "Pork, cured, ham with natural juices, shank, bone-in, separable lean and fat, unheated",
+    "intent": 4,
+    "intent_name": "portion_control",
+    "regression_target": 200.0,
+    "nutrition_vector": [
+      0.0764,
+      0.2235,
+      0.0008,
+      0.0555,
+      0.0,
+      0.0032,
+      0.3895,
+      0.004
+    ],
+    "calorie_budget": 442.1,
+    "source": "USDA_SR_Legacy",
+    "language": "english"
+  },
+  {
+    "text": "100g Beverages, OCEAN SPRAY, White Cranberry Peach kitni calories deta hai approximately?",
+    "food_name": "Beverages, OCEAN SPRAY, White Cranberry Peach",
+    "intent": 0,
+    "intent_name": "calorie_query",
+    "regression_target": 45.0,
+    "nutrition_vector": [
+      0.018,
+      0.0013,
+      0.0297,
+      0.0001,
+      0.012,
+      0.1132,
+      0.0055,
+      0.002
+    ],
+    "calorie_budget": 324.9,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "dinner ke liye low calorie Indian food kya hai?",
+    "food_name": "Babyfood, pears, dices, toddler",
+    "intent": 1,
+    "intent_name": "meal_suggestion",
+    "regression_target": 178.0,
+    "nutrition_vector": [
+      0.0228,
+      0.003,
+      0.034,
+      0.0005,
+      0.024,
+      0.0866,
+      0.003,
+      0.0067
+    ],
+    "calorie_budget": null,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Indian diet plan for diabetes management — kya khauon kya na khauon?",
+    "food_name": "Tofu, firm, prepared with calcium sulfate and magnesium chloride (nigari)",
+    "intent": 2,
+    "intent_name": "diet_advice",
+    "regression_target": 1369.3,
+    "nutrition_vector": [
+      0.0312,
+      0.0904,
+      0.0071,
+      0.0209,
+      0.018,
+      0.006,
+      0.006,
+      0.134
+    ],
+    "calorie_budget": null,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Topping, SMUCKER'S MAGIC SHELL kitni matra mein lena sahi hai?",
+    "food_name": "Topping, SMUCKER'S MAGIC SHELL",
+    "intent": 4,
+    "intent_name": "portion_control",
+    "regression_target": 200.0,
+    "nutrition_vector": [
+      0.2436,
+      0.0294,
+      0.1252,
+      0.2205,
+      0.058,
+      0.4706,
+      0.0145,
+      0.0
+    ],
+    "calorie_budget": 385.3,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "What nutrients does Veal, leg (top round), separable lean only, cooked, roasted contain?",
+    "food_name": "Veal, leg (top round), separable lean only, cooked, roasted",
+    "intent": 3,
+    "intent_name": "nutrition_info",
+    "regression_target": 28.1,
+    "nutrition_vector": [
+      0.06,
+      0.2807,
+      0.0,
+      0.0169,
+      0.0,
+      0.0,
+      0.034,
+      0.004
+    ],
+    "calorie_budget": 150.3,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "High protein snack ideas batao.",
+    "food_name": "Beef, chuck, clod roast, separable lean only, trimmed to 0\" fat, choice, cooked, roasted",
+    "intent": 1,
+    "intent_name": "meal_suggestion",
+    "regression_target": 161.8,
+    "nutrition_vector": [
+      0.0684,
+      0.2595,
+      0.0,
+      0.0335,
+      0.0,
+      0.0,
+      0.037,
+      0.0047
+    ],
+    "calorie_budget": null,
+    "source": "USDA_SR_Legacy",
+    "language": "english"
+  },
+  {
+    "text": "What should I eat for breakfast to support diabetes management?",
+    "food_name": "Soup, clam chowder, manhattan style, canned, chunky, ready-to-serve",
+    "intent": 1,
+    "intent_name": "meal_suggestion",
+    "regression_target": 274.8,
+    "nutrition_vector": [
+      0.0224,
+      0.0302,
+      0.0196,
+      0.007,
+      0.024,
+      0.0167,
+      0.2085,
+      0.0187
+    ],
+    "calorie_budget": 346.2,
+    "source": "USDA_SR_Legacy",
+    "language": "english"
+  },
+  {
+    "text": "Recommended Chrysanthemum, garland, cooked, boiled, drained, with salt intake per day batao.",
+    "food_name": "Chrysanthemum, garland, cooked, boiled, drained, with salt",
+    "intent": 4,
+    "intent_name": "portion_control",
+    "regression_target": 100.0,
+    "nutrition_vector": [
+      0.008,
+      0.0164,
+      0.0108,
+      0.0004,
+      0.046,
+      0.0201,
+      0.1445,
+      0.046
+    ],
+    "calorie_budget": null,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Recommended Milk, filled, fluid, with blend of hydrogenated vegetable oils intake per day batao.",
+    "food_name": "Milk, filled, fluid, with blend of hydrogenated vegetable oils",
+    "intent": 4,
+    "intent_name": "portion_control",
+    "regression_target": 200.0,
+    "nutrition_vector": [
+      0.0252,
+      0.0333,
+      0.0119,
+      0.0173,
+      0.0,
+      0.0,
+      0.0285,
+      0.0853
+    ],
+    "calorie_budget": 344.3,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Mujhe weight loss ke liye diet plan chahiye.",
+    "food_name": "Balsam-pear (bitter gourd), leafy tips, cooked, boiled, drained, without salt",
+    "intent": 2,
+    "intent_name": "diet_advice",
+    "regression_target": 1251.8,
+    "nutrition_vector": [
+      0.0136,
+      0.036,
+      0.0167,
+      0.001,
+      0.038,
+      0.0104,
+      0.0065,
+      0.028
+    ],
+    "calorie_budget": null,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Cereals, QUAKER, Weight Control Instant Oatmeal, banana bread mein carbohydrates kitne hote hain?",
+    "food_name": "Cereals, QUAKER, Weight Control Instant Oatmeal, banana bread",
+    "intent": 3,
+    "intent_name": "nutrition_info",
+    "regression_target": 16.5,
+    "nutrition_vector": [
+      0.1444,
+      0.165,
+      0.161,
+      0.0308,
+      0.252,
+      0.0129,
+      0.3095,
+      0.162
+    ],
+    "calorie_budget": 213.8,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Tell me calories for 2 Breadfruit, raw.",
+    "food_name": "Breadfruit, raw",
+    "intent": 0,
+    "intent_name": "calorie_query",
+    "regression_target": 206.0,
+    "nutrition_vector": [
+      0.0412,
+      0.0107,
+      0.0678,
+      0.0011,
+      0.098,
+      0.11,
+      0.001,
+      0.0113
+    ],
+    "calorie_budget": 338.1,
+    "source": "USDA_SR_Legacy",
+    "language": "english"
+  },
+  {
+    "text": "Fiber content of Egg, whole, cooked, omelet kya hai?",
+    "food_name": "Egg, whole, cooked, omelet",
+    "intent": 3,
+    "intent_name": "nutrition_info",
+    "regression_target": 10.6,
+    "nutrition_vector": [
+      0.0616,
+      0.1057,
+      0.0016,
+      0.0583,
+      0.0,
+      0.0031,
+      0.0775,
+      0.032
+    ],
+    "calorie_budget": 245.6,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Candies, milk chocolate coated coffee beans high protein hai ya nahi?",
+    "food_name": "Candies, milk chocolate coated coffee beans",
+    "intent": 3,
+    "intent_name": "nutrition_info",
+    "regression_target": 7.4,
+    "nutrition_vector": [
+      0.2196,
+      0.0741,
+      0.1381,
+      0.1659,
+      0.114,
+      0.5075,
+      0.035,
+      0.1127
+    ],
+    "calorie_budget": 229.4,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "How much McDONALD'S, McFLURRY with M&M'S CANDIES is too much?",
+    "food_name": "McDONALD'S, McFLURRY with M&M'S CANDIES",
+    "intent": 4,
+    "intent_name": "portion_control",
+    "regression_target": 100.0,
+    "nutrition_vector": [
+      0.0708,
+      0.0402,
+      0.067,
+      0.0323,
+      0.004,
+      0.2437,
+      0.027,
+      0.09
+    ],
+    "calorie_budget": 206.4,
+    "source": "USDA_SR_Legacy",
+    "language": "english"
+  },
+  {
+    "text": "Is Beef, variety meats and by-products, thymus, raw a good source of calcium?",
+    "food_name": "Beef, variety meats and by-products, thymus, raw",
+    "intent": 3,
+    "intent_name": "nutrition_info",
+    "regression_target": 12.2,
+    "nutrition_vector": [
+      0.0944,
+      0.1218,
+      0.0,
+      0.1018,
+      0.0,
+      0.0,
+      0.048,
+      0.0047
+    ],
+    "calorie_budget": null,
+    "source": "USDA_SR_Legacy",
+    "language": "english"
+  },
+  {
+    "text": "Split pea soup, canned, reduced sodium, prepared with water or ready-to serve ka fat content kya hai?",
+    "food_name": "Split pea soup, canned, reduced sodium, prepared with water or ready-to serve",
+    "intent": 3,
+    "intent_name": "nutrition_info",
+    "regression_target": 3.9,
+    "nutrition_vector": [
+      0.0284,
+      0.0385,
+      0.0296,
+      0.0046,
+      0.038,
+      0.0506,
+      0.083,
+      0.0113
+    ],
+    "calorie_budget": 78.6,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Light lunch suggestions for general fitness.",
+    "food_name": "Game meat, deer, shoulder clod, separable lean only, cooked, braised",
+    "intent": 1,
+    "intent_name": "meal_suggestion",
+    "regression_target": 247.7,
+    "nutrition_vector": [
+      0.0764,
+      0.3628,
+      0.0,
+      0.0198,
+      0.0,
+      0.0,
+      0.026,
+      0.004
+    ],
+    "calorie_budget": 363.6,
+    "source": "USDA_SR_Legacy",
+    "language": "english"
+  },
+  {
+    "text": "Fiber content of Fish, cusk, raw kya hai?",
+    "food_name": "Fish, cusk, raw",
+    "intent": 3,
+    "intent_name": "nutrition_info",
+    "regression_target": 19.0,
+    "nutrition_vector": [
+      0.0348,
+      0.1899,
+      0.0,
+      0.0034,
+      0.0,
+      0.0,
+      0.0155,
+      0.0067
+    ],
+    "calorie_budget": null,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Spices, dill seed ka fat content kya hai?",
+    "food_name": "Spices, dill seed",
+    "intent": 3,
+    "intent_name": "nutrition_info",
+    "regression_target": 16.0,
+    "nutrition_vector": [
+      0.122,
+      0.1598,
+      0.1379,
+      0.0727,
+      0.422,
+      0.0,
+      0.01,
+      1.0
+    ],
+    "calorie_budget": null,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Mujhe batao 200g Salad dressing, coleslaw ka calorie value kya hai.",
+    "food_name": "Salad dressing, coleslaw",
+    "intent": 0,
+    "intent_name": "calorie_query",
+    "regression_target": 808.0,
+    "nutrition_vector": [
+      0.1616,
+      0.0085,
+      0.056,
+      0.1726,
+      0.0,
+      0.2123,
+      0.425,
+      0.006
+    ],
+    "calorie_budget": null,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Fiber content of Wheat, soft white kya hai?",
+    "food_name": "Wheat, soft white",
+    "intent": 3,
+    "intent_name": "nutrition_info",
+    "regression_target": 10.7,
+    "nutrition_vector": [
+      0.136,
+      0.1069,
+      0.1884,
+      0.01,
+      0.254,
+      0.0041,
+      0.001,
+      0.0227
+    ],
+    "calorie_budget": 285.7,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Fiber content of Pork, fresh, loin, center rib (chops), bone-in, separable lean only, cooked, pan-fried kya hai?",
+    "food_name": "Pork, fresh, loin, center rib (chops), bone-in, separable lean only, cooked, pan-fried",
+    "intent": 3,
+    "intent_name": "nutrition_info",
+    "regression_target": 28.8,
+    "nutrition_vector": [
+      0.0844,
+      0.2884,
+      0.0,
+      0.0486,
+      0.0,
+      0.0,
+      0.044,
+      0.03
+    ],
+    "calorie_budget": null,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "pre-workout meal mein kya khauon jo nutritious ho?",
+    "food_name": "Tofu, salted and fermented (fuyu)",
+    "intent": 1,
+    "intent_name": "meal_suggestion",
+    "regression_target": 199.5,
+    "nutrition_vector": [
+      0.0464,
+      0.0892,
+      0.0109,
+      0.04,
+      0.0,
+      0.0,
+      1.0,
+      0.0307
+    ],
+    "calorie_budget": 293.3,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Foods to avoid for heart health.",
+    "food_name": "Seeds, breadfruit seeds, raw",
+    "intent": 2,
+    "intent_name": "diet_advice",
+    "regression_target": 2691.6,
+    "nutrition_vector": [
+      0.0764,
+      0.074,
+      0.0731,
+      0.0279,
+      0.104,
+      0.0,
+      0.0125,
+      0.024
+    ],
+    "calorie_budget": null,
+    "source": "USDA_SR_Legacy",
+    "language": "english"
+  },
+  {
+    "text": "What foods to eat for general fitness?",
+    "food_name": "Soup, cheese, canned, prepared with equal volume water",
+    "intent": 2,
+    "intent_name": "diet_advice",
+    "regression_target": 1474.2,
+    "nutrition_vector": [
+      0.0252,
+      0.0219,
+      0.0106,
+      0.0212,
+      0.008,
+      0.0,
+      0.194,
+      0.038
+    ],
+    "calorie_budget": null,
+    "source": "USDA_SR_Legacy",
+    "language": "english"
+  },
+  {
+    "text": "Best lunch options for energy boost diet.",
+    "food_name": "Beef, New Zealand, imported, tenderloin, separable lean and fat, raw",
+    "intent": 1,
+    "intent_name": "meal_suggestion",
+    "regression_target": 416.8,
+    "nutrition_vector": [
+      0.0584,
+      0.2104,
+      0.0,
+      0.0344,
+      0.0,
+      0.0,
+      0.0195,
+      0.0027
+    ],
+    "calorie_budget": 586.6,
+    "source": "USDA_SR_Legacy",
+    "language": "english"
+  },
+  {
+    "text": "Ek din mein kitna Sugars, brown khana chahiye?",
+    "food_name": "Sugars, brown",
+    "intent": 4,
+    "intent_name": "portion_control",
+    "regression_target": 100.0,
+    "nutrition_vector": [
+      0.152,
+      0.0012,
+      0.2452,
+      0.0,
+      0.0,
+      0.9702,
+      0.014,
+      0.0553
+    ],
+    "calorie_budget": 392.1,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "2 Pigeonpeas, immature seeds, cooked, boiled, drained, without salt khaya — total calories kya hongi?",
+    "food_name": "Pigeonpeas, immature seeds, cooked, boiled, drained, without salt",
+    "intent": 0,
+    "intent_name": "calorie_query",
+    "regression_target": 222.0,
+    "nutrition_vector": [
+      0.0444,
+      0.0596,
+      0.0487,
+      0.0068,
+      0.084,
+      0.0248,
+      0.0025,
+      0.0273
+    ],
+    "calorie_budget": 412.9,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Suggest a healthy snack for diabetes management.",
+    "food_name": "Pie, fried pies, cherry",
+    "intent": 1,
+    "intent_name": "meal_suggestion",
+    "regression_target": 586.9,
+    "nutrition_vector": [
+      0.1264,
+      0.03,
+      0.1065,
+      0.0805,
+      0.052,
+      0.0,
+      0.187,
+      0.0147
+    ],
+    "calorie_budget": 836.2,
+    "source": "USDA_SR_Legacy",
+    "language": "english"
+  },
+  {
+    "text": "Indian diet plan for PCOS management — kya khauon kya na khauon?",
+    "food_name": "Pork, fresh, loin, country-style ribs, separable lean only, boneless, cooked, broiled",
+    "intent": 2,
+    "intent_name": "diet_advice",
+    "regression_target": 2800,
+    "nutrition_vector": [
+      0.0864,
+      0.2783,
+      0.0,
+      0.0583,
+      0.0,
+      0.0,
+      0.029,
+      0.0047
+    ],
+    "calorie_budget": 3047.9,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Pork, fresh, loin, country-style ribs, separable lean only, cooked, braised mein kaunsa vitamin hota hai mainly?",
+    "food_name": "Pork, fresh, loin, country-style ribs, separable lean only, cooked, braised",
+    "intent": 3,
+    "intent_name": "nutrition_info",
+    "regression_target": 27.7,
+    "nutrition_vector": [
+      0.0988,
+      0.2774,
+      0.0,
+      0.0713,
+      0.0,
+      0.0,
+      0.03,
+      0.022
+    ],
+    "calorie_budget": 306.7,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Zwieback ke kya health benefits hain?",
+    "food_name": "Zwieback",
+    "intent": 3,
+    "intent_name": "nutrition_info",
+    "regression_target": 10.1,
+    "nutrition_vector": [
+      0.1704,
+      0.101,
+      0.1855,
+      0.0485,
+      0.05,
+      0.125,
+      0.1135,
+      0.0133
+    ],
+    "calorie_budget": 82.0,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Beef, chuck, shoulder clod, shoulder top and center steaks, separable lean and fat, trimmed to 0\" fat, all grades, cooked, grilled ka calorie kitna hoga agar 50g khauon?",
+    "food_name": "Beef, chuck, shoulder clod, shoulder top and center steaks, separable lean and fat, trimmed to 0\" fat, all grades, cooked, grilled",
+    "intent": 0,
+    "intent_name": "calorie_query",
+    "regression_target": 182.0,
+    "nutrition_vector": [
+      0.0728,
+      0.263,
+      0.0003,
+      0.0383,
+      0.0,
+      0.0,
+      0.03,
+      0.0033
+    ],
+    "calorie_budget": null,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Foods to avoid for thyroid health.",
+    "food_name": "Pork loin, fresh, backribs, bone-in, raw, lean only",
+    "intent": 2,
+    "intent_name": "diet_advice",
+    "regression_target": 2314.9,
+    "nutrition_vector": [
+      0.0688,
+      0.2085,
+      0.0,
+      0.0492,
+      0.0,
+      0.0,
+      0.0475,
+      0.0173
+    ],
+    "calorie_budget": 2556.3,
+    "source": "USDA_SR_Legacy",
+    "language": "english"
+  },
+  {
+    "text": "Is Tortillas, ready-to-bake or -fry, flour, refrigerated a good source of calcium?",
+    "food_name": "Tortillas, ready-to-bake or -fry, flour, refrigerated",
+    "intent": 3,
+    "intent_name": "nutrition_info",
+    "regression_target": 8.2,
+    "nutrition_vector": [
+      0.1224,
+      0.082,
+      0.1235,
+      0.0399,
+      0.07,
+      0.0371,
+      0.368,
+      0.0973
+    ],
+    "calorie_budget": 240.3,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Quick and healthy post-workout meal Indian food kya hai?",
+    "food_name": "Salad dressing, blue or roquefort cheese, low calorie",
+    "intent": 1,
+    "intent_name": "meal_suggestion",
+    "regression_target": 272.4,
+    "nutrition_vector": [
+      0.0396,
+      0.051,
+      0.0072,
+      0.036,
+      0.0,
+      0.0282,
+      0.4695,
+      0.0593
+    ],
+    "calorie_budget": null,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Salad dressing, italian dressing, commercial, regular high protein hai ya nahi?",
+    "food_name": "Salad dressing, italian dressing, commercial, regular",
+    "intent": 3,
+    "intent_name": "nutrition_info",
+    "regression_target": 0.4,
+    "nutrition_vector": [
+      0.096,
+      0.0041,
+      0.0303,
+      0.1056,
+      0.0,
+      0.1077,
+      0.4965,
+      0.0087
+    ],
+    "calorie_budget": 228.0,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "How to manage diet for muscle gain?",
+    "food_name": "Cornmeal, yellow, self-rising, bolted, plain, enriched",
+    "intent": 2,
+    "intent_name": "diet_advice",
+    "regression_target": 2800,
+    "nutrition_vector": [
+      0.1336,
+      0.0828,
+      0.1757,
+      0.017,
+      0.134,
+      0.0,
+      0.6235,
+      0.2407
+    ],
+    "calorie_budget": 2893.2,
+    "source": "USDA_SR_Legacy",
+    "language": "english"
+  },
+  {
+    "text": "1 plate DENNY'S, chicken nuggets, star shaped, from kid's menu kitni calories deta hai approximately?",
+    "food_name": "DENNY'S, chicken nuggets, star shaped, from kid's menu",
+    "intent": 0,
+    "intent_name": "calorie_query",
+    "regression_target": 377.0,
+    "nutrition_vector": [
+      0.1508,
+      0.1627,
+      0.034,
+      0.1429,
+      0.016,
+      0.0,
+      0.322,
+      0.0107
+    ],
+    "calorie_budget": 579.6,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "How many calories in 2 rotis McDONALD'S, RANCH SNACK WRAP, Crispy?",
+    "food_name": "McDONALD'S, RANCH SNACK WRAP, Crispy",
+    "intent": 0,
+    "intent_name": "calorie_query",
+    "regression_target": 550.0,
+    "nutrition_vector": [
+      0.11,
+      0.1148,
+      0.058,
+      0.0755,
+      0.026,
+      0.0248,
+      0.3035,
+      0.0587
+    ],
+    "calorie_budget": 738.6,
+    "source": "USDA_SR_Legacy",
+    "language": "english"
+  },
+  {
+    "text": "Beans, kidney, all types, mature seeds, cooked, boiled, with salt ka healthy portion size kya hota hai?",
+    "food_name": "Beans, kidney, all types, mature seeds, cooked, boiled, with salt",
+    "intent": 4,
+    "intent_name": "portion_control",
+    "regression_target": 200.0,
+    "nutrition_vector": [
+      0.0508,
+      0.0867,
+      0.057,
+      0.0025,
+      0.128,
+      0.0032,
+      0.119,
+      0.0187
+    ],
+    "calorie_budget": 440.8,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "What is the calorie content of 1 plate Beef, New Zealand, imported, sweetbread, cooked, boiled?",
+    "food_name": "Beef, New Zealand, imported, sweetbread, cooked, boiled",
+    "intent": 0,
+    "intent_name": "calorie_query",
+    "regression_target": 318.0,
+    "nutrition_vector": [
+      0.1272,
+      0.1253,
+      0.0,
+      0.1489,
+      0.0,
+      0.0,
+      0.026,
+      0.0027
+    ],
+    "calorie_budget": null,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Best superfoods for diabetes management in Indian context.",
+    "food_name": "Fast foods, potato, mashed",
+    "intent": 2,
+    "intent_name": "diet_advice",
+    "regression_target": 1669.2,
+    "nutrition_vector": [
+      0.0356,
+      0.0165,
+      0.0366,
+      0.0141,
+      0.026,
+      0.005,
+      0.153,
+      0.012
+    ],
+    "calorie_budget": 1905.7,
+    "source": "USDA_SR_Legacy",
+    "language": "english"
+  },
+  {
+    "text": "High protein post-workout meal ideas batao.",
+    "food_name": "Beans, snap, green, cooked, boiled, drained, without salt",
+    "intent": 1,
+    "intent_name": "meal_suggestion",
+    "regression_target": 184.1,
+    "nutrition_vector": [
+      0.014,
+      0.0189,
+      0.0197,
+      0.0014,
+      0.064,
+      0.0363,
+      0.0005,
+      0.0293
+    ],
+    "calorie_budget": null,
+    "source": "USDA_SR_Legacy",
+    "language": "english"
+  },
+  {
+    "text": "1 Pork, fresh, loin, sirloin (chops), boneless, separable lean and fat, cooked, broiled kitni calories deta hai approximately?",
+    "food_name": "Pork, fresh, loin, sirloin (chops), boneless, separable lean and fat, cooked, broiled",
+    "intent": 0,
+    "intent_name": "calorie_query",
+    "regression_target": 170.0,
+    "nutrition_vector": [
+      0.068,
+      0.2819,
+      0.0,
+      0.0277,
+      0.0,
+      0.0,
+      0.0325,
+      0.0073
+    ],
+    "calorie_budget": null,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Tell me calories for 1 Pancakes, plain, dry mix, incomplete, prepared.",
+    "food_name": "Pancakes, plain, dry mix, incomplete, prepared",
+    "intent": 0,
+    "intent_name": "calorie_query",
+    "regression_target": 218.0,
+    "nutrition_vector": [
+      0.0872,
+      0.078,
+      0.0722,
+      0.0385,
+      0.038,
+      0.0,
+      0.2525,
+      0.1433
+    ],
+    "calorie_budget": 386.9,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  },
+  {
+    "text": "Puddings, chocolate flavor, low calorie, regular, dry mix kitni matra mein lena sahi hai?",
+    "food_name": "Puddings, chocolate flavor, low calorie, regular, dry mix",
+    "intent": 4,
+    "intent_name": "portion_control",
+    "regression_target": 100.0,
+    "nutrition_vector": [
+      0.146,
+      0.1008,
+      0.186,
+      0.015,
+      0.202,
+      0.007,
+      1.0,
+      0.0333
+    ],
+    "calorie_budget": 202.6,
+    "source": "USDA_SR_Legacy",
+    "language": "hinglish"
+  }
+]

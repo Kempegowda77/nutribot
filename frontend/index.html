@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1.0"/>
+<title>NutriChat AI — Smart Nutrition Assistant</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet"/>
+<link rel="stylesheet" href="/static/style.css"/>
+</head>
+<body>
+
+<!-- Auth Modal -->
+<div id="authModal" class="modal-overlay active">
+  <div class="modal-box">
+    <div class="modal-logo"><span class="leaf">🌿</span> NutriChat AI</div>
+    <div class="modal-tabs">
+      <button class="tab-btn active" id="tabLogin" onclick="switchTab('login')">Login</button>
+      <button class="tab-btn" id="tabRegister" onclick="switchTab('register')">Register</button>
+    </div>
+
+    <!-- Login -->
+    <div id="formLogin">
+      <div class="field"><label>Username</label><input type="text" id="loginUser" placeholder="Enter username"/></div>
+      <div class="field"><label>Password</label><input type="password" id="loginPass" placeholder="Enter password"/></div>
+      <div id="loginError" class="err-msg"></div>
+      <button class="btn-primary" onclick="doLogin()">Login →</button>
+      <p class="switch-link">No account? <a onclick="switchTab('register')">Register here</a></p>
+    </div>
+
+    <!-- Register -->
+    <div id="formRegister" style="display:none">
+      <div class="field"><label>Username</label><input type="text" id="regUser" placeholder="Choose username"/></div>
+      <div class="field"><label>Email</label><input type="email" id="regEmail" placeholder="Your email"/></div>
+      <div class="field"><label>Password</label><input type="password" id="regPass" placeholder="Min 6 chars"/></div>
+      <div class="field"><label>Daily Calorie Goal <span class="hint">(default 2000)</span></label>
+        <input type="number" id="regGoal" value="2000" min="1000" max="5000"/></div>
+      <div id="regError" class="err-msg"></div>
+      <button class="btn-primary" onclick="doRegister()">Create Account →</button>
+      <p class="switch-link">Have an account? <a onclick="switchTab('login')">Login</a></p>
+    </div>
+  </div>
+</div>
+
+<!-- Main App -->
+<div id="mainApp" style="display:none" class="app-layout">
+
+  <!-- Sidebar Left: Tracker -->
+  <aside class="sidebar-left">
+    <div class="sidebar-header">
+      <span class="leaf">🌿</span>
+      <span class="brand">NutriChat</span>
+    </div>
+    <div class="user-card">
+      <div class="avatar" id="userAvatar">U</div>
+      <div>
+        <div class="uname" id="sidebarUsername">User</div>
+        <div class="ugoal" id="sidebarGoal">Goal: 2000 kcal</div>
+      </div>
+    </div>
+
+    <!-- Daily Progress -->
+    <div class="tracker-card">
+      <div class="tracker-title">📊 Today's Calories</div>
+      <div class="cal-ring-wrap">
+        <svg class="cal-ring" viewBox="0 0 120 120">
+          <circle cx="60" cy="60" r="50" fill="none" stroke="#1e2535" stroke-width="12"/>
+          <circle cx="60" cy="60" r="50" fill="none" stroke="url(#grad)" stroke-width="12"
+            stroke-dasharray="314" stroke-dashoffset="314" id="ringCircle"
+            stroke-linecap="round" transform="rotate(-90 60 60)"/>
+          <defs>
+            <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+              <stop offset="0%" stop-color="#00d4aa"/>
+              <stop offset="100%" stop-color="#7c3aed"/>
+            </linearGradient>
+          </defs>
+        </svg>
+        <div class="ring-label">
+          <span id="ringCals">0</span>
+          <small>/ <span id="ringGoal">2000</span></small>
+        </div>
+      </div>
+      <div class="macro-row">
+        <div class="macro"><div class="macro-val" id="macroP">0g</div><div class="macro-lbl">Protein</div></div>
+        <div class="macro"><div class="macro-val" id="macroC">0g</div><div class="macro-lbl">Carbs</div></div>
+        <div class="macro"><div class="macro-val" id="macroF">0g</div><div class="macro-lbl">Fat</div></div>
+      </div>
+      <div class="remaining-bar">
+        <span class="rem-label">Remaining</span>
+        <span class="rem-val" id="remainingCals">2000 kcal</span>
+      </div>
+    </div>
+
+    <!-- Recent Meals -->
+    <div class="recent-meals">
+      <div class="tracker-title">🍽️ Recent Meals</div>
+      <div id="mealList" class="meal-list"><div class="empty-meals">No meals logged yet</div></div>
+    </div>
+
+    <!-- Nav -->
+    <div class="sidebar-nav">
+      <button class="nav-btn active" onclick="showPanel('chat')" id="navChat">💬 Chat</button>
+      <button class="nav-btn" onclick="showPanel('menu')" id="navMenu">🍛 Menu</button>
+      <button class="nav-btn" onclick="showPanel('orders')" id="navOrders">📦 Orders</button>
+      <button class="nav-btn logout" onclick="doLogout()">🚪 Logout</button>
+    </div>
+  </aside>
+
+  <!-- Main Content -->
+  <main class="main-content">
+
+    <!-- Chat Panel -->
+    <div id="panelChat" class="panel active">
+      <div class="panel-header">
+        <div class="header-title">💬 NutriChat AI Assistant</div>
+        <div class="header-sub">Ask me anything about nutrition, calories or your next meal!</div>
+      </div>
+      <div class="chat-window" id="chatWindow">
+        <!-- messages go here -->
+      </div>
+      <div class="chat-input-bar">
+        <div class="quick-chips" id="quickChips">
+          <button class="chip" onclick="sendChip('calories in paneer')">🔥 Calories in paneer</button>
+          <button class="chip" onclick="sendChip('suggest healthy lunch')">🍽️ Suggest lunch</button>
+          <button class="chip" onclick="sendChip('what have I eaten today')">📊 Today intake</button>
+          <button class="chip" onclick="sendChip('diet tips for weight loss')">💊 Diet tips</button>
+          <button class="chip" onclick="sendChip('protein in chicken')">💪 Protein in chicken</button>
+        </div>
+        <div class="input-row">
+          <input type="text" id="chatInput" placeholder="Type in English or Hinglish... (e.g. 'dal mein kitna protein hai')"
+            onkeydown="if(event.key==='Enter')sendMessage()"/>
+          <button class="send-btn" onclick="sendMessage()">➤</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Menu Panel -->
+    <div id="panelMenu" class="panel" style="display:none">
+      <div class="panel-header">
+        <div class="header-title">🍛 Food Menu</div>
+        <div class="header-sub">Order healthy Indian food — nutrition info included!</div>
+      </div>
+      <div class="menu-filters" id="menuFilters">
+        <button class="filter-btn active" onclick="filterMenu('All', this)">All</button>
+        <button class="filter-btn" onclick="filterMenu('Veg', this)">🟢 Veg</button>
+        <button class="filter-btn" onclick="filterMenu('Non-Veg', this)">🔴 Non-Veg</button>
+      </div>
+      <div class="menu-categories" id="menuGrid">Loading...</div>
+
+      <!-- Cart -->
+      <div class="cart-bar" id="cartBar" style="display:none">
+        <div class="cart-info">
+          🛒 <span id="cartCount">0</span> items · ₹<span id="cartTotal">0</span>
+          · <span id="cartCals">0</span> kcal
+        </div>
+        <button class="btn-checkout" onclick="openCart()">View Cart & Checkout</button>
+      </div>
+    </div>
+
+    <!-- Orders Panel -->
+    <div id="panelOrders" class="panel" style="display:none">
+      <div class="panel-header">
+        <div class="header-title">📦 Order History</div>
+        <div class="header-sub">Your past orders and nutrition breakdown</div>
+      </div>
+      <div id="orderList" class="order-list">Loading...</div>
+    </div>
+
+  </main>
+</div>
+
+<!-- Cart Modal -->
+<div id="cartModal" class="modal-overlay" style="display:none">
+  <div class="modal-box cart-modal-box">
+    <div class="modal-header-row">
+      <h2>🛒 Your Cart</h2>
+      <button class="close-btn" onclick="closeCart()">✕</button>
+    </div>
+    <div id="cartItems" class="cart-items"></div>
+    <div class="cart-summary" id="cartSummary"></div>
+    <div class="payment-mock">
+      <div class="payment-title">💳 Mock Payment</div>
+      <div class="payment-row">
+        <select id="payMethod">
+          <option>UPI</option><option>Credit Card</option>
+          <option>Debit Card</option><option>Net Banking</option><option>Cash on Delivery</option>
+        </select>
+      </div>
+    </div>
+    <button class="btn-primary" onclick="placeOrder()">✅ Place Order</button>
+  </div>
+</div>
+
+<!-- Toast -->
+<div id="toast" class="toast"></div>
+
+<script src="/static/app.js"></script>
+</body>
+</html>

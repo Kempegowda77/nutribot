@@ -1,0 +1,14 @@
+{
+  "embed_dim": 128,
+  "nutrition_dim": 8,
+  "num_classes": 5,
+  "regression_dim": 1,
+  "transformer_heads": 8,
+  "transformer_ff_dim": 512,
+  "transformer_layers": 2,
+  "transformer_dropout": 0.1,
+  "attn_dim": 64,
+  "head_hidden_dim": 128,
+  "dropout": 0.1,
+  "penalty_weight": 1.0
+}

@@ -1,0 +1,34 @@
+# ─────────────────────────────────────────────────────────────
+# NutriChat AI — IEEE Edition Dependencies
+# Python >= 3.10
+# ─────────────────────────────────────────────────────────────
+
+# ── Deep Learning ──────────────────────────────────────────────
+torch>=2.1.0                  # Core ML framework
+transformers>=4.38.0          # HuggingFace: MuRIL, AutoTokenizer, AutoModel
+sentencepiece>=0.1.99         # Required by MuRIL tokenizer
+protobuf>=3.20.0              # Required by sentencepiece
+
+# ── API Server ─────────────────────────────────────────────────
+fastapi>=0.110.0              # REST API framework
+uvicorn[standard]>=0.29.0    # ASGI server
+
+# ── NLP Pipeline (IEEE Hybrid Engine) ─────────────────────────
+nltk>=3.8.1                  # Tokenization, POS, lemmatization, VADER, WordNet
+scikit-learn>=1.4.0          # TF-IDF, cosine similarity (intent baseline)
+
+# ── Data Validation ────────────────────────────────────────────
+pydantic>=2.6.0               # Request/response schemas
+
+# ── Data Processing ────────────────────────────────────────────
+requests>=2.31.0              # Dataset downloads + USDA API calls
+pandas>=2.1.0                 # (optional) CSV analysis helpers
+numpy>=1.26.0                 # Numeric ops
+
+# ── Session Memory ─────────────────────────────────────────────
+redis>=5.0.0                  # Optional: session memory store
+
+# ── Standard Library (no install needed) ───────────────────────
+# re, json, os, csv, math, urllib, pathlib, typing, threading,
+# time, collections, dataclasses, datetime, statistics, zipfile
+# All built-in Python >= 3.10

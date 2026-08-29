@@ -1,0 +1,134 @@
+{
+  "demo:2026-04-30": {
+    "username": "demo",
+    "date": "2026-04-30",
+    "meals": [
+      {
+        "food_name": "Roti (Wheat Chapati)",
+        "qty": 1,
+        "calories": 297,
+        "protein_g": 8.5,
+        "carb_g": 61.2,
+        "fat_g": 3.7,
+        "meal_type": "ordered",
+        "source": "order",
+        "timestamp": 1777487841.5541856,
+        "time_str": "12:07 AM"
+      },
+      {
+        "food_name": "Paratha (Plain)",
+        "qty": 1,
+        "calories": 326,
+        "protein_g": 7.5,
+        "carb_g": 51.0,
+        "fat_g": 11.0,
+        "meal_type": "ordered",
+        "source": "order",
+        "timestamp": 1777487841.5705907,
+        "time_str": "12:07 AM"
+      }
+    ],
+    "total": {
+      "calories": 623.0,
+      "protein_g": 16.0,
+      "carb_g": 112.2,
+      "fat_g": 14.7
+    }
+  },
+  "balu:2026-04-30": {
+    "username": "balu",
+    "date": "2026-04-30",
+    "meals": [
+      {
+        "food_name": "Roti (Wheat Chapati)",
+        "qty": 1,
+        "calories": 297,
+        "protein_g": 8.5,
+        "carb_g": 61.2,
+        "fat_g": 3.7,
+        "meal_type": "ordered",
+        "source": "order",
+        "timestamp": 1777488163.186052,
+        "time_str": "12:12 AM"
+      },
+      {
+        "food_name": "Dal Tadka (Toor Dal)",
+        "qty": 1,
+        "calories": 116,
+        "protein_g": 7.2,
+        "carb_g": 18.5,
+        "fat_g": 2.5,
+        "meal_type": "ordered",
+        "source": "order",
+        "timestamp": 1777488163.2132633,
+        "time_str": "12:12 AM"
+      },
+      {
+        "food_name": "Palak Paneer",
+        "qty": 1,
+        "calories": 210,
+        "protein_g": 10.5,
+        "carb_g": 8.5,
+        "fat_g": 15.5,
+        "meal_type": "ordered",
+        "source": "order",
+        "timestamp": 1777488163.2306614,
+        "time_str": "12:12 AM"
+      },
+      {
+        "food_name": "Upma",
+        "qty": 1,
+        "calories": 150,
+        "protein_g": 3.4,
+        "carb_g": 21.5,
+        "fat_g": 5.8,
+        "meal_type": "ordered",
+        "source": "order",
+        "timestamp": 1777526065.7830393,
+        "time_str": "10:44 AM"
+      }
+    ],
+    "total": {
+      "calories": 773.0,
+      "protein_g": 29.6,
+      "carb_g": 109.7,
+      "fat_g": 27.5
+    }
+  },
+  "rohan:2026-04-30": {
+    "username": "rohan",
+    "date": "2026-04-30",
+    "meals": [
+      {
+        "food_name": "Roti (Wheat Chapati)",
+        "qty": 1,
+        "calories": 297,
+        "protein_g": 8.5,
+        "carb_g": 61.2,
+        "fat_g": 3.7,
+        "meal_type": "ordered",
+        "source": "order",
+        "timestamp": 1777540076.2864134,
+        "time_str": "02:37 PM"
+      },
+      {
+        "food_name": "Rajma Curry",
+        "qty": 1,
+        "calories": 127,
+        "protein_g": 8.7,
+        "carb_g": 18.5,
+        "fat_g": 2.2,
+        "meal_type": "ordered",
+        "source": "order",
+        "timestamp": 1777540076.3084013,
+        "time_str": "02:37 PM"
+      }
+    ],
+    "total": {
+      "calories": 424.0,
+      "protein_g": 17.2,
+      "carb_g": 79.7,
+      "fat_g": 5.9
+    }
+  }
+}

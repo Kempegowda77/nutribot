@@ -1,0 +1,22 @@
+[
+  {
+    "text": "aaj 2 roti khaya kitna calorie",
+    "intent": 0,
+    "regression_target": 210.0,
+    "nutrition_vector": [0.8, 0.2, 0.1, 0.0, 0.3, 0.4, 0.2, 0.1],
+    "calorie_budget": 500.0,
+    "session_id": "s1",
+    "timestamp": "2026-04-28T10:00:00+00:00",
+    "language": "hinglish"
+  },
+  {
+    "text": "low carb dinner suggest karo",
+    "intent": 1,
+    "regression_target": 320.0,
+    "nutrition_vector": [0.1, 0.9, 0.1, 0.2, 0.4, 0.3, 0.2, 0.5],
+    "calorie_budget": 450.0,
+    "session_id": "s1",
+    "timestamp": "2026-04-28T13:30:00+00:00",
+    "language": "hinglish"
+  }
+]

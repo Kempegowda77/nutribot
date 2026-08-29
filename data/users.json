@@ -1,0 +1,42 @@
+{
+  "demo": {
+    "username": "demo",
+    "email": "demo@test.com",
+    "password_hash": "d3ad9315b7be5dd53b31a273b3b3aba5defe700808305aa16a3062b76658a791",
+    "daily_calorie_goal": 2000,
+    "created_at": 1777487646.9268556,
+    "goal": "general fitness",
+    "age": null,
+    "weight_kg": null
+  },
+  "balu": {
+    "username": "Balu",
+    "email": "balu@nutrichat.com",
+    "password_hash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+    "daily_calorie_goal": 2000,
+    "created_at": 1777488039.8967407,
+    "goal": "general fitness",
+    "age": null,
+    "weight_kg": null
+  },
+  "ankur": {
+    "username": "Ankur",
+    "email": "ankur@nutri.com",
+    "password_hash": "4a9ca4596692e94f9d2912b06a0d007564a22ee750339a6021c2392149b25d6d",
+    "daily_calorie_goal": 2400,
+    "created_at": 1777535647.2425802,
+    "goal": "general fitness",
+    "age": null,
+    "weight_kg": null
+  },
+  "rohan": {
+    "username": "Rohan",
+    "email": "rohan@nutri.com",
+    "password_hash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+    "daily_calorie_goal": 2000,
+    "created_at": 1777540037.3096313,
+    "goal": "general fitness",
+    "age": null,
+    "weight_kg": null
+  }
+}
