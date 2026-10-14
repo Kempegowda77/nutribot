@@ -1,1 +1,1 @@
-“Create a PyTorch module that takes token embeddings and concatenates a nutrition vector, then projects back to embedding size”
+“Create a PyTorch module that takes token embeddings and concatenates a nutrition vector, then projects back to embedding size ”
