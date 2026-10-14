@@ -1,6 +1,6 @@
 """
 USDA FoodData Central (FDC) Dataset Loader
-============================================
+===========================================
 Downloads and parses the official USDA FoodData Central dataset.
 Source: https://fdc.nal.usda.gov/download-datasets.html
 
