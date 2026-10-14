@@ -13,7 +13,7 @@ from models.nutrition_fusion import NutritionFusion
 class NutriChatModel(nn.Module):
     """
     End-to-end model that combines:
-    - Nutrition fusion over token embeddings
+    - Nutri tion fusion over token embeddings
     - Transformer encoder over fused embeddings
     - Query-memory attention
     - Dual heads (classification + regression)
