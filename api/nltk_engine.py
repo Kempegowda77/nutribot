@@ -1,6 +1,6 @@
 """
 NutriChat AI — NLTK NLP Engine
-================================
+===============================
 IEEE-publishable NLP pipeline using NLTK:
 
   Stage 1 — Preprocessing  : Tokenize → POS Tag → Lemmatize → Stopword removal
