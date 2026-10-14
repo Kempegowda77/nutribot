@@ -1,6 +1,6 @@
 """
 NutriChat AI — Gemini LLM Brain
-================================
+===============================
 Routes chatbot responses through Google Gemini (gemini-1.5-flash).
 Nutrition data from the local DB is injected as context so the AI
 answers with accurate, grounded information instead of hallucinating.
