@@ -2,6 +2,7 @@
 NutriChat AI — Entry Point
 Run with: python main.py
 Or:        uvicorn api.app:app --reload --port 8000
+first commit
 """
 import uvicorn
 
