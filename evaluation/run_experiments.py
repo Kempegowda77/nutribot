@@ -7,7 +7,7 @@ from torch.utils.data import DataLoader
 
 from models.nutrichat_model import NutriChatModel
 
-Variant = Literal["baseline", "memory", "constraint"]
+Variant = Literal["baseline", "memory ", "constraint"]
 
 
 @dataclass
