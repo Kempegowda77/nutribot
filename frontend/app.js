@@ -1,6 +1,6 @@
 /* ============================================================
    NutriChat AI — Frontend App Logic
-   ============================================================ */
+   ============================================================= */
 
 const API = '';   // Same origin (FastAPI serves frontend)
 let token = localStorage.getItem('nc_token') || null;
