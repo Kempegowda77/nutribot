@@ -1,6 +1,6 @@
 """
 NutriChat AI — Chatbot Engine (NLTK + DistilBERT Hybrid)
-=========================================================
+========================================================
 IEEE-publishable multi-stage NLP pipeline:
 
   Stage 1: NLTK Preprocessing
