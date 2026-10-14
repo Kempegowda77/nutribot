@@ -1,6 +1,6 @@
 """
 NutriChat AI — Training Pipeline (IEEE Edition)
-================================================
+===============================================
 Uses MuRIL (google/muril-base-cased) — Google's multilingual model
 for 17 Indian languages + English — fine-tuned on REAL food data.
 
