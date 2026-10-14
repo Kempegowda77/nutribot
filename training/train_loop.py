@@ -12,7 +12,7 @@ class MultiTaskTrainer:
     - regression loss from model regression output
     - optional constraint penalty from model outputs
 
-    Expected batch keys:
+    Expected batch key:
     - token_embeddings: [B, S, E]
     - nutrition_vector: [B, N] or [B, S, N]
     - memory_embeddings: [B, M, E]
