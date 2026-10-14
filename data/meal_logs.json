@@ -130,5 +130,53 @@
       "carb_g": 79.7,
       "fat_g": 5.9
     }
+  },
+  "kempe:2026-10-14": {
+    "username": "kempe",
+    "date": "2026-10-14",
+    "meals": [
+      {
+        "food_name": "Roti (Wheat Chapati)",
+        "qty": 1,
+        "calories": 297,
+        "protein_g": 8.5,
+        "carb_g": 61.2,
+        "fat_g": 3.7,
+        "meal_type": "ordered",
+        "source": "order",
+        "timestamp": 1791955812.697571,
+        "time_str": "11:00 AM"
+      },
+      {
+        "food_name": "Paratha (Plain)",
+        "qty": 1,
+        "calories": 326,
+        "protein_g": 7.5,
+        "carb_g": 51.0,
+        "fat_g": 11.0,
+        "meal_type": "ordered",
+        "source": "order",
+        "timestamp": 1791955813.3226302,
+        "time_str": "11:00 AM"
+      },
+      {
+        "food_name": "Biryani (Veg)",
+        "qty": 1,
+        "calories": 185,
+        "protein_g": 5.5,
+        "carb_g": 28.5,
+        "fat_g": 6.0,
+        "meal_type": "ordered",
+        "source": "order",
+        "timestamp": 1791955813.5277343,
+        "time_str": "11:00 AM"
+      }
+    ],
+    "total": {
+      "calories": 808.0,
+      "protein_g": 21.5,
+      "carb_g": 140.7,
+      "fat_g": 20.7
+    }
   }
 }

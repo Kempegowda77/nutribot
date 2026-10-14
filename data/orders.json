@@ -144,5 +144,54 @@
       "timestamp": 1777540076.311126,
       "time_str": "30 Apr 2026, 02:37 PM"
     }
+  ],
+  "kempe": [
+    {
+      "order_id": "ORD1791955813",
+      "username": "kempe",
+      "items": [
+        {
+          "item_id": "R001",
+          "name": "Roti (Wheat Chapati)",
+          "qty": 1,
+          "unit_price": 10,
+          "subtotal": 10,
+          "calories": 297,
+          "protein_g": 8.5,
+          "carb_g": 61.2,
+          "fat_g": 3.7,
+          "emoji": "🫓"
+        },
+        {
+          "item_id": "R002",
+          "name": "Paratha (Plain)",
+          "qty": 1,
+          "unit_price": 25,
+          "subtotal": 25,
+          "calories": 326,
+          "protein_g": 7.5,
+          "carb_g": 51.0,
+          "fat_g": 11.0,
+          "emoji": "🫓"
+        },
+        {
+          "item_id": "R012",
+          "name": "Biryani (Veg)",
+          "qty": 1,
+          "unit_price": 150,
+          "subtotal": 150,
+          "calories": 185,
+          "protein_g": 5.5,
+          "carb_g": 28.5,
+          "fat_g": 6.0,
+          "emoji": "🍚"
+        }
+      ],
+      "total_price": 185.0,
+      "total_calories": 808.0,
+      "status": "confirmed",
+      "timestamp": 1791955813.5377402,
+      "time_str": "14 Oct 2026, 11:00 AM"
+    }
   ]
 }
