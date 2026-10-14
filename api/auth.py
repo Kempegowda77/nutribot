@@ -1,5 +1,5 @@
 """
-NutriChat AI — Auth Module
+ NutriChat AI — Auth Module
 File-based user registration and login.
 """
 import hashlib, json, secrets, time
