@@ -1,5 +1,5 @@
 """
-NutriChat AI — Main FastAPI Application (Full Edition)
+ NutriChat AI — Main FastAPI Application (Full Edition)
 Serves: Auth, Menu, Chat, Orders, Meal Tracking, Suggestions, Static Frontend
 """
 import json
