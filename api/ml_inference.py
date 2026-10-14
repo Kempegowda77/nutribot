@@ -1,6 +1,6 @@
 """
 NutriChat AI — Real-Time ML Inference Engine
-=============================================
+============================================
 Loads the trained NutriChatModel + distilBERT backbone checkpoint and
 provides live intent classification + calorie regression for every message.
 
