@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 NutriChat AI - Comprehensive Chatbot Test Suite
-===============================================
+==============================================
 Tests every intent, edge case, Hinglish input, emotional tone,
 misspellings, and fallback behaviour.
 
