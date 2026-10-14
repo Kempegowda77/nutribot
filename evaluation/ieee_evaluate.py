@@ -237,7 +237,7 @@ def main():
     print(f"  {'Accuracy':<22} {intent_metrics['accuracy']:>10.4f}")
 
     print("\n  -- Calorie Regression --")
-    print(f"  MAE:  {reg_metrics['mae']:.2f} kcal")
+    print(f" first commit  MAE:  {reg_metrics['mae']:.2f} kcal")
     print(f"  RMSE: {reg_metrics['rmse']:.2f} kcal")
     print(f"  R²:   {reg_metrics['r2']:.4f}")
 
