@@ -6,7 +6,7 @@ import torch.nn as nn
 
 class MultiTaskHeads(nn.Module):
     """
-    Two-head output module:
+    Two -head output module:
     - Classification head -> logits for softmax-based classification
     - Regression head -> linear output
 
