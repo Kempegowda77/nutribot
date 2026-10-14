@@ -6,7 +6,7 @@ from memory.session_memory import SessionMemory
 
 try:
     import redis
-except Exception:  # pragma: no cover - handled at runtime
+except Exception:  # pragma: no c over - handled at runtime
     redis = None
 
 
