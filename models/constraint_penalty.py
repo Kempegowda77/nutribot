@@ -7,7 +7,7 @@ import torch.nn.functional as F
 
 class ConstraintPenalty(nn.Module):
     """
-    Penalizes model predictions that exceed a constraint vector.
+    Penalizes model predictionsthat exceed a constraint vector.
 
     Typical use:
     - predictions: predicted calories/macros (or scalar calorie output)
