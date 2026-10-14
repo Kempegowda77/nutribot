@@ -8,7 +8,7 @@ from transformers import AutoModel
 class HFMultiTaskBaseline(nn.Module):
     """
     HuggingFace encoder baseline with dual heads.
-    Supports model_name such as:
+    Supports model_name such a:
     - bert-base-uncased
     - distilbert-base-uncased
     """
