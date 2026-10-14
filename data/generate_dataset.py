@@ -2,7 +2,7 @@
 Synthetic Hinglish food chatbot dataset generator.
 Produces 800 training + 200 validation samples covering 5 intents.
 Run: python data/generate_dataset.py
-"""
+ """
 import json
 import random
 from pathlib import Path
