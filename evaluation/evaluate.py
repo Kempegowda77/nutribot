@@ -12,7 +12,7 @@ def evaluate_model(
     device: str = "cpu",
     print_metrics: bool = True,
 ) -> Dict[str, float]:
-    """
+    """ .
     Evaluate model on:
     - Accuracy (classification)
     - MAE (regression)
