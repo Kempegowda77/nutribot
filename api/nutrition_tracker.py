@@ -1,5 +1,5 @@
 """
-NutriChat AI — Meal Tracker & Nutrition Lookup
+ NutriChat AI — Meal Tracker & Nutrition Lookup
 Logs meals, orders, and tracks daily calorie intake per user.
 """
 import csv, json, time
