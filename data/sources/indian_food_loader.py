@@ -1,6 +1,6 @@
 """
 Indian Food Nutrition Dataset Loader
-======================================
+=====================================
 Downloads Indian food nutrition data from multiple open sources:
 1. Kaggle Indian Food Dataset (local CSV if available)
 2. Built-in curated Indian foods database (verified from ICMR/NIN sources)
