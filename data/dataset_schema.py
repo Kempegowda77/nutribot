@@ -73,5 +73,5 @@ def validate_nutrichat_dataset(path: str | Path) -> Dict[str, int]:
         "num_records": len(records),
         "num_with_budget": num_with_budget,
         "num_hinglish": num_hinglish,
-    }
+     }
 
