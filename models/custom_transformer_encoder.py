@@ -8,7 +8,7 @@ class CustomEmbeddingTransformerEncoder(nn.Module):
     """
     Transformer encoder that consumes custom input embeddings.
 
-    Inputs:
+    Inputs :
     - embeddings: [batch, seq_len, embed_dim]
     - attention_mask (optional): [batch, seq_len], where 1 means keep and 0 means pad
 
