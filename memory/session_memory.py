@@ -15,7 +15,7 @@ class SessionEntry:
 
 class SessionMemory:
     """
-    Stores last N session entries with timestamp.
+    Store last N session entries with timestamp.
 
     Each entry contains:
     - text: raw user/system text
