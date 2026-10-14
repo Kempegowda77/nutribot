@@ -5,7 +5,7 @@ Merges USDA FDC + Indian Food + Open Food Facts into one
 unified food database: data/processed/unified_food_db.csv
 
 Then generates real intent-annotated training/validation JSON
-from real user-style queries grounded in actual food data.
+from  real user-style queries grounded in actual food data.
 
 Run:
     python data/sources/dataset_merger.py
