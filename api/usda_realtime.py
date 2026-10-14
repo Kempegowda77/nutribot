@@ -1,6 +1,6 @@
 """
 Real-Time USDA FoodData Central API Client
-============================================
+===========================================
 Fetches live nutrition data from the official USDA FDC REST API.
 Free API key: https://fdc.nal.usda.gov/api-key-signup.html
 
