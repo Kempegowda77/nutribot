@@ -6,7 +6,7 @@ import torch.nn as nn
 
 class QueryMemoryAttention(nn.Module):
     """
-    Attention from current query embedding to memory embeddings.
+     Attention from current query embedding to memory embeddings.
 
     Inputs:
     - query: [B, E]
