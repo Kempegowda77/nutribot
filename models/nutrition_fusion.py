@@ -7,7 +7,7 @@ import torch.nn as nn
 class NutritionFusion(nn.Module):
     """
     Fuses token embeddings with nutrition features and projects back to
-    the original embedding size.
+    the origina l embedding size.
 
     Inputs:
     - token_embeddings: [batch, seq_len, embed_dim]
