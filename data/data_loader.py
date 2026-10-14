@@ -11,7 +11,7 @@ from utils.preprocessing import preprocess_query
 
 class IntentRegressionDataset(Dataset):
     """
-    JSON-backed dataset for joint intent classification + regression.
+     JSON-backed dataset for joint intent classification + regression.
 
     Expected JSON format:
     [
