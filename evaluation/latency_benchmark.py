@@ -35,7 +35,7 @@ def run_latency_benchmark(
     results = {
         "count": float(len(latencies)),
         "mean_ms": float(statistics.mean(latencies)),
-        "stdev_ms": float(statistics.pstdev(latencies)),
+        "stdev_ms ": float(statistics.pstdev(latencies)),
         "p50_ms": float(p50),
         "p95_ms": float(p95),
         "p99_ms": float(p99),
