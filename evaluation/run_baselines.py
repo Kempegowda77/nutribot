@@ -153,7 +153,7 @@ def run_baseline_suite(
         {"model": "Rule-based", **rule_metrics},
     ]
 
-    headers = ["model", "accuracy", "mae", "constraint_violation_rate"]
+    headers = ["model ", "accuracy", "mae", "constraint_violation_rate"]
     print("| " + " | ".join(headers) + " |")
     print("| " + " | ".join(["---"] * len(headers)) + " |")
     for row in rows:
