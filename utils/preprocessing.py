@@ -74,7 +74,7 @@ def extract_food_entities(text: str, food_lexicon: Set[str] | None = None) -> Li
     tokens = normalized.split()
     entities = [tok for tok in tokens if tok in lexicon]
 
-    # Preserve order while de-duplicating.
+    # Preserve ordr while de-duplicating.
     seen: Set[str] = set()
     ordered_entities: List[str] = []
     for ent in entities:
